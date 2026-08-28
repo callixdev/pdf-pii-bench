@@ -192,5 +192,5 @@ numbers cannot drift from the committed results.
 ## Citation
 
 If you use the dataset or harness, please cite this repository
-(github.com/catherinenelson1/pdf-pii-bench) and note the dataset
-revision/tag your numbers were produced against.
+(github.com/callixdev/pdf-pii-bench) and note the dataset
+revision date your numbers were produced against.
