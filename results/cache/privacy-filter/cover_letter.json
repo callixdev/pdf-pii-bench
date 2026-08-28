@@ -1,0 +1,71 @@
+{
+  "id": "cover_letter",
+  "spans": [
+    {
+      "start": 0,
+      "end": 19,
+      "text": "Malik Torres-Nguyen",
+      "label": "private_person"
+    },
+    {
+      "start": 20,
+      "end": 58,
+      "text": "1544 Vine St, Apt 22, Denver, CO 80206",
+      "label": "private_address"
+    },
+    {
+      "start": 59,
+      "end": 87,
+      "text": "malik.torresnguyen@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 90,
+      "end": 105,
+      "text": "+1 720-555-0195",
+      "label": "private_phone"
+    },
+    {
+      "start": 106,
+      "end": 138,
+      "text": "https://github.com/mtorresnguyen",
+      "label": "private_url"
+    },
+    {
+      "start": 159,
+      "end": 171,
+      "text": "July 3, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 172,
+      "end": 186,
+      "text": "Rachel Adeyemi",
+      "label": "private_person"
+    },
+    {
+      "start": 270,
+      "end": 276,
+      "text": "Rachel",
+      "label": "private_person"
+    },
+    {
+      "start": 1221,
+      "end": 1253,
+      "text": "https://github.com/mtorresnguyen",
+      "label": "private_url"
+    },
+    {
+      "start": 1375,
+      "end": 1390,
+      "text": "+1 720-555-0195",
+      "label": "private_phone"
+    },
+    {
+      "start": 1426,
+      "end": 1450,
+      "text": "Malik Torres-Nguyen Page",
+      "label": "private_person"
+    }
+  ]
+}

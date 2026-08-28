@@ -1,0 +1,53 @@
+{
+  "id": "telehealth_registration",
+  "spans": [
+    {
+      "start": 114,
+      "end": 128,
+      "text": "Nadine Aliyeva",
+      "label": "private_person"
+    },
+    {
+      "start": 144,
+      "end": 154,
+      "text": "04/07/1994",
+      "label": "private_date"
+    },
+    {
+      "start": 179,
+      "end": 194,
+      "text": "+1 646-555-0117",
+      "label": "private_phone"
+    },
+    {
+      "start": 202,
+      "end": 227,
+      "text": "nadine.aliyeva@icloud.com",
+      "label": "private_email"
+    },
+    {
+      "start": 242,
+      "end": 287,
+      "text": "88 Greenpoint Ave, Apt 4R, Brooklyn, NY 11222",
+      "label": "private_address"
+    },
+    {
+      "start": 395,
+      "end": 414,
+      "text": "07/15/2025, 2:30 PM",
+      "label": "private_date"
+    },
+    {
+      "start": 429,
+      "end": 443,
+      "text": "LH-2025-118834",
+      "label": "account_number"
+    },
+    {
+      "start": 613,
+      "end": 618,
+      "text": "60412",
+      "label": "account_number"
+    }
+  ]
+}

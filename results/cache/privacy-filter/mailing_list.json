@@ -1,0 +1,137 @@
+{
+  "id": "mailing_list",
+  "spans": [
+    {
+      "start": 105,
+      "end": 118,
+      "text": "Elena Vasquez",
+      "label": "private_person"
+    },
+    {
+      "start": 120,
+      "end": 144,
+      "text": "elena.v@openmesh-dev.org",
+      "label": "private_email"
+    },
+    {
+      "start": 152,
+      "end": 172,
+      "text": "2025-03-15 14:22 UTC",
+      "label": "private_date"
+    },
+    {
+      "start": 231,
+      "end": 241,
+      "text": "2025-03-15",
+      "label": "private_date"
+    },
+    {
+      "start": 243,
+      "end": 254,
+      "text": "Marcus Chen",
+      "label": "private_person"
+    },
+    {
+      "start": 450,
+      "end": 469,
+      "text": "sk-9f2b8c1d4e5a6f70",
+      "label": "secret"
+    },
+    {
+      "start": 482,
+      "end": 494,
+      "text": "c0rrectH0rse",
+      "label": "secret"
+    },
+    {
+      "start": 755,
+      "end": 776,
+      "text": "/elena/logs/build.log",
+      "label": "private_url"
+    },
+    {
+      "start": 810,
+      "end": 857,
+      "text": "https://openmesh-dev.org/ci/build?id=4821&run=2",
+      "label": "private_url"
+    },
+    {
+      "start": 972,
+      "end": 1005,
+      "text": "eyJhbGciOiJIUzI1NiJ9.ZmFrZS1kZW1v",
+      "label": "secret"
+    },
+    {
+      "start": 1201,
+      "end": 1206,
+      "text": "Elena",
+      "label": "private_person"
+    },
+    {
+      "start": 1223,
+      "end": 1234,
+      "text": "Marcus Chen",
+      "label": "private_person"
+    },
+    {
+      "start": 1236,
+      "end": 1255,
+      "text": "mchen@quarrylake.io",
+      "label": "private_email"
+    },
+    {
+      "start": 1263,
+      "end": 1283,
+      "text": "2025-03-15 16:05 UTC",
+      "label": "private_date"
+    },
+    {
+      "start": 1845,
+      "end": 1884,
+      "text": "https://ci.quarrylake.io/runners/health",
+      "label": "private_url"
+    },
+    {
+      "start": 1913,
+      "end": 1919,
+      "text": "Marcus",
+      "label": "private_person"
+    },
+    {
+      "start": 1922,
+      "end": 1941,
+      "text": "mchen@quarrylake.io",
+      "label": "private_email"
+    },
+    {
+      "start": 1944,
+      "end": 1959,
+      "text": "+1 415-555-0126",
+      "label": "private_phone"
+    },
+    {
+      "start": 1976,
+      "end": 1990,
+      "text": "Tomas Ferreira",
+      "label": "private_person"
+    },
+    {
+      "start": 1992,
+      "end": 2018,
+      "text": "tferreira@openmeshlabs.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2026,
+      "end": 2047,
+      "text": "15-Mar-2025 18:41 UTC",
+      "label": "private_date"
+    },
+    {
+      "start": 2606,
+      "end": 2611,
+      "text": "Tomas",
+      "label": "private_person"
+    }
+  ]
+}

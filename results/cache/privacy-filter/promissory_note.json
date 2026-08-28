@@ -1,0 +1,95 @@
+{
+  "id": "promissory_note",
+  "spans": [
+    {
+      "start": 70,
+      "end": 81,
+      "text": "May 1, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 102,
+      "end": 120,
+      "text": "Tessa Okafor-Grant",
+      "label": "private_person"
+    },
+    {
+      "start": 147,
+      "end": 190,
+      "text": "905 Locust St, Apt 12, Des Moines, IA 50309",
+      "label": "private_address"
+    },
+    {
+      "start": 224,
+      "end": 236,
+      "text": "Miriam Grant",
+      "label": "private_person"
+    },
+    {
+      "start": 239,
+      "end": 245,
+      "text": "Lender",
+      "label": "private_person"
+    },
+    {
+      "start": 252,
+      "end": 297,
+      "text": "44 Prairie Rose Ln, West Des Moines, IA 50266",
+      "label": "private_address"
+    },
+    {
+      "start": 530,
+      "end": 539,
+      "text": "482009366",
+      "label": "account_number"
+    },
+    {
+      "start": 623,
+      "end": 633,
+      "text": "06/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 701,
+      "end": 711,
+      "text": "05/01/2028",
+      "label": "private_date"
+    },
+    {
+      "start": 1555,
+      "end": 1567,
+      "text": "Tessa Okafor",
+      "label": "private_person"
+    },
+    {
+      "start": 1580,
+      "end": 1590,
+      "text": "05/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1599,
+      "end": 1611,
+      "text": "Miriam Grant",
+      "label": "private_person"
+    },
+    {
+      "start": 1618,
+      "end": 1628,
+      "text": "05/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1743,
+      "end": 1753,
+      "text": "06/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1782,
+      "end": 1792,
+      "text": "07/01/2025",
+      "label": "private_date"
+    }
+  ]
+}

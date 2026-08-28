@@ -1,0 +1,89 @@
+{
+  "id": "invoice_medical_billing",
+  "spans": [
+    {
+      "start": 110,
+      "end": 123,
+      "text": "June 30, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 133,
+      "end": 143,
+      "text": "PT-0448817",
+      "label": "account_number"
+    },
+    {
+      "start": 157,
+      "end": 170,
+      "text": "July 30, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 192,
+      "end": 205,
+      "text": "Harold Okonjo",
+      "label": "private_person"
+    },
+    {
+      "start": 206,
+      "end": 245,
+      "text": "515 W 11th Ave, Unit 3 Eugene, OR 97401",
+      "label": "private_address"
+    },
+    {
+      "start": 285,
+      "end": 297,
+      "text": "25-114-88201",
+      "label": "account_number"
+    },
+    {
+      "start": 316,
+      "end": 326,
+      "text": "06/21/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 383,
+      "end": 393,
+      "text": "05/28/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 422,
+      "end": 427,
+      "text": "99214",
+      "label": "account_number"
+    },
+    {
+      "start": 456,
+      "end": 466,
+      "text": "05/28/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 522,
+      "end": 532,
+      "text": "06/04/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 836,
+      "end": 850,
+      "text": "(541) 555-0186",
+      "label": "private_phone"
+    },
+    {
+      "start": 1020,
+      "end": 1034,
+      "text": "(541) 555-0186",
+      "label": "private_phone"
+    },
+    {
+      "start": 1057,
+      "end": 1067,
+      "text": "PT-0448817",
+      "label": "account_number"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "invoice_catering",
+  "spans": [
+    {
+      "start": 263,
+      "end": 293,
+      "text": "walvarezboone@stellarevents.co",
+      "label": "private_email"
+    },
+    {
+      "start": 1112,
+      "end": 1125,
+      "text": "Marcel Dubois",
+      "label": "private_person"
+    }
+  ]
+}

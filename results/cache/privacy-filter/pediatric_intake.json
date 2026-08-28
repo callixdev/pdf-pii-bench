@@ -1,0 +1,101 @@
+{
+  "id": "pediatric_intake",
+  "spans": [
+    {
+      "start": 46,
+      "end": 88,
+      "text": "55 Court St, 3rd Floor, Brooklyn, NY 11201",
+      "label": "private_address"
+    },
+    {
+      "start": 128,
+      "end": 142,
+      "text": "August 4, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 155,
+      "end": 171,
+      "text": "Amelia Rojas-Kim",
+      "label": "private_person"
+    },
+    {
+      "start": 187,
+      "end": 197,
+      "text": "02/14/2019",
+      "label": "private_date"
+    },
+    {
+      "start": 223,
+      "end": 298,
+      "text": "PS 20 Clinton Hill Home address: 330 Clinton Ave, Apt 9F Brooklyn, NY 11205",
+      "label": "private_address"
+    },
+    {
+      "start": 329,
+      "end": 342,
+      "text": "Daniela Rojas",
+      "label": "private_person"
+    },
+    {
+      "start": 385,
+      "end": 399,
+      "text": "(917) 555-0184",
+      "label": "private_phone"
+    },
+    {
+      "start": 402,
+      "end": 427,
+      "text": "daniela.rojas.k@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 438,
+      "end": 450,
+      "text": "Jonathan Kim",
+      "label": "private_person"
+    },
+    {
+      "start": 467,
+      "end": 481,
+      "text": "(917) 555-0139",
+      "label": "private_phone"
+    },
+    {
+      "start": 594,
+      "end": 608,
+      "text": "NYH-4471120033",
+      "label": "account_number"
+    },
+    {
+      "start": 624,
+      "end": 637,
+      "text": "Daniela Rojas",
+      "label": "private_person"
+    },
+    {
+      "start": 673,
+      "end": 694,
+      "text": "Dr. Priya Raghunathan",
+      "label": "private_person"
+    },
+    {
+      "start": 906,
+      "end": 910,
+      "text": "2024",
+      "label": "private_date"
+    },
+    {
+      "start": 1193,
+      "end": 1206,
+      "text": "Daniela Rojas",
+      "label": "private_person"
+    },
+    {
+      "start": 1213,
+      "end": 1223,
+      "text": "08/04/2025",
+      "label": "private_date"
+    }
+  ]
+}

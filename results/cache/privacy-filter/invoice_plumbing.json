@@ -1,0 +1,23 @@
+{
+  "id": "invoice_plumbing",
+  "spans": [
+    {
+      "start": 233,
+      "end": 248,
+      "text": "Gloria Whitcomb",
+      "label": "private_person"
+    },
+    {
+      "start": 249,
+      "end": 288,
+      "text": "212 Meadowlark Ln, Round Rock, TX 78664",
+      "label": "private_address"
+    },
+    {
+      "start": 331,
+      "end": 345,
+      "text": "Ray Delgadillo",
+      "label": "private_person"
+    }
+  ]
+}

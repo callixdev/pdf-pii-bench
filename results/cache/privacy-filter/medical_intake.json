@@ -1,0 +1,137 @@
+{
+  "id": "medical_intake",
+  "spans": [
+    {
+      "start": 183,
+      "end": 194,
+      "text": "15-May-2025",
+      "label": "private_date"
+    },
+    {
+      "start": 205,
+      "end": 226,
+      "text": "Dr. Imani Walcott, MD",
+      "label": "private_person"
+    },
+    {
+      "start": 265,
+      "end": 283,
+      "text": "Samuel T. Nakamura",
+      "label": "private_person"
+    },
+    {
+      "start": 289,
+      "end": 299,
+      "text": "07/22/1983",
+      "label": "private_date"
+    },
+    {
+      "start": 305,
+      "end": 316,
+      "text": "612-00-5578",
+      "label": "account_number"
+    },
+    {
+      "start": 360,
+      "end": 374,
+      "text": "(720) 555-0164",
+      "label": "private_phone"
+    },
+    {
+      "start": 389,
+      "end": 412,
+      "text": "(720) 555-0190 ext. 218",
+      "label": "private_phone"
+    },
+    {
+      "start": 420,
+      "end": 445,
+      "text": "samuel.nakamura@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 455,
+      "end": 497,
+      "text": "4471 E Colfax Ave Apt 305 Denver, CO 80220",
+      "label": "private_address"
+    },
+    {
+      "start": 689,
+      "end": 701,
+      "text": "XQR448210077",
+      "label": "account_number"
+    },
+    {
+      "start": 711,
+      "end": 719,
+      "text": "GRP-2210",
+      "label": "account_number"
+    },
+    {
+      "start": 735,
+      "end": 753,
+      "text": "Samuel T. Nakamura",
+      "label": "private_person"
+    },
+    {
+      "start": 777,
+      "end": 787,
+      "text": "01/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 848,
+      "end": 861,
+      "text": "Yuki Nakamura",
+      "label": "private_person"
+    },
+    {
+      "start": 890,
+      "end": 904,
+      "text": "(720) 555-0129",
+      "label": "private_phone"
+    },
+    {
+      "start": 919,
+      "end": 944,
+      "text": "Kenji Nakamura (brother),",
+      "label": "private_person"
+    },
+    {
+      "start": 945,
+      "end": 957,
+      "text": "415.555.0183",
+      "label": "private_phone"
+    },
+    {
+      "start": 1645,
+      "end": 1665,
+      "text": "Dr. Owen Castellanos",
+      "label": "private_person"
+    },
+    {
+      "start": 3436,
+      "end": 3446,
+      "text": "01/15/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 3722,
+      "end": 3742,
+      "text": "Dr. Owen Castellanos",
+      "label": "private_person"
+    },
+    {
+      "start": 3926,
+      "end": 3944,
+      "text": "Samuel T. Nakamura",
+      "label": "private_person"
+    },
+    {
+      "start": 3951,
+      "end": 3961,
+      "text": "05/15/2025",
+      "label": "private_date"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "lease_agreement",
+  "spans": [
+    {
+      "start": 130,
+      "end": 151,
+      "text": "12th day of May, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 168,
+      "end": 183,
+      "text": "Rosalind Achebe",
+      "label": "private_person"
+    },
+    {
+      "start": 201,
+      "end": 216,
+      "text": "Jonathan Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 644,
+      "end": 659,
+      "text": "Jonathan Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 667,
+      "end": 678,
+      "text": "Maya Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 1241,
+      "end": 1250,
+      "text": "445509812",
+      "label": "account_number"
+    },
+    {
+      "start": 1662,
+      "end": 1677,
+      "text": "Rosalind Achebe",
+      "label": "private_person"
+    },
+    {
+      "start": 1802,
+      "end": 1817,
+      "text": "Jonathan Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 7710,
+      "end": 7725,
+      "text": "Rosalind Achebe",
+      "label": "private_person"
+    },
+    {
+      "start": 7732,
+      "end": 7742,
+      "text": "05/12/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 7751,
+      "end": 7766,
+      "text": "Jonathan Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 7773,
+      "end": 7783,
+      "text": "05/12/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 7960,
+      "end": 7970,
+      "text": "05/28/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 8239,
+      "end": 8254,
+      "text": "Rosalind Achebe",
+      "label": "private_person"
+    },
+    {
+      "start": 8258,
+      "end": 8272,
+      "text": "(512) 555-0121",
+      "label": "private_phone"
+    },
+    {
+      "start": 9472,
+      "end": 9487,
+      "text": "Jonathan Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 9494,
+      "end": 9504,
+      "text": "05/12/2025",
+      "label": "private_date"
+    }
+  ]
+}

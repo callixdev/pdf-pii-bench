@@ -1,0 +1,89 @@
+{
+  "id": "cc_statement",
+  "spans": [
+    {
+      "start": 127,
+      "end": 149,
+      "text": "Yolanda Marsh-Whitaker",
+      "label": "private_person"
+    },
+    {
+      "start": 150,
+      "end": 193,
+      "text": "2205 S Lamar Blvd, Apt 214 Austin, TX 78704",
+      "label": "private_address"
+    },
+    {
+      "start": 255,
+      "end": 266,
+      "text": "May 8, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 269,
+      "end": 281,
+      "text": "June 7, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 300,
+      "end": 310,
+      "text": "07/02/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 493,
+      "end": 498,
+      "text": "05/09",
+      "label": "private_date"
+    },
+    {
+      "start": 526,
+      "end": 531,
+      "text": "05/11",
+      "label": "private_date"
+    },
+    {
+      "start": 652,
+      "end": 657,
+      "text": "05/15",
+      "label": "private_date"
+    },
+    {
+      "start": 736,
+      "end": 741,
+      "text": "05/21",
+      "label": "private_date"
+    },
+    {
+      "start": 778,
+      "end": 783,
+      "text": "05/24",
+      "label": "private_date"
+    },
+    {
+      "start": 797,
+      "end": 803,
+      "text": "#08214",
+      "label": "account_number"
+    },
+    {
+      "start": 820,
+      "end": 825,
+      "text": "05/27",
+      "label": "private_date"
+    },
+    {
+      "start": 863,
+      "end": 868,
+      "text": "05/30",
+      "label": "private_date"
+    },
+    {
+      "start": 943,
+      "end": 948,
+      "text": "06/05",
+      "label": "private_date"
+    }
+  ]
+}

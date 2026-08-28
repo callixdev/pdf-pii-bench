@@ -1,0 +1,47 @@
+{
+  "id": "lease_renewal",
+  "spans": [
+    {
+      "start": 154,
+      "end": 169,
+      "text": "Rosalind Achebe",
+      "label": "private_person"
+    },
+    {
+      "start": 187,
+      "end": 202,
+      "text": "Jonathan Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 234,
+      "end": 278,
+      "text": "2914 Bluebonnet Ln, Unit 4, Austin, TX 78704",
+      "label": "private_address"
+    },
+    {
+      "start": 1411,
+      "end": 1426,
+      "text": "Rosalind Achebe",
+      "label": "private_person"
+    },
+    {
+      "start": 1433,
+      "end": 1443,
+      "text": "03/09/2026",
+      "label": "private_date"
+    },
+    {
+      "start": 1452,
+      "end": 1467,
+      "text": "Jonathan Pierce",
+      "label": "private_person"
+    },
+    {
+      "start": 1474,
+      "end": 1484,
+      "text": "03/09/2026",
+      "label": "private_date"
+    }
+  ]
+}

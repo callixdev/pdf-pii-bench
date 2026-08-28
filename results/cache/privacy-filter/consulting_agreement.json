@@ -1,0 +1,203 @@
+{
+  "id": "consulting_agreement",
+  "spans": [
+    {
+      "start": 103,
+      "end": 128,
+      "text": "3rd day of February, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 161,
+      "end": 179,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person"
+    },
+    {
+      "start": 207,
+      "end": 246,
+      "text": "1105 Sycamore Row, Charleston, SC 29401",
+      "label": "private_address"
+    },
+    {
+      "start": 339,
+      "end": 383,
+      "text": "830 Third Ave, 9th Floor, New York, NY 10022",
+      "label": "private_address"
+    },
+    {
+      "start": 449,
+      "end": 463,
+      "text": "Howard Ellison",
+      "label": "private_person"
+    },
+    {
+      "start": 530,
+      "end": 548,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person"
+    },
+    {
+      "start": 671,
+      "end": 689,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person"
+    },
+    {
+      "start": 880,
+      "end": 894,
+      "text": "Howard Ellison",
+      "label": "private_person"
+    },
+    {
+      "start": 1116,
+      "end": 1126,
+      "text": "02/03/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1666,
+      "end": 1676,
+      "text": "7714402611",
+      "label": "account_number"
+    },
+    {
+      "start": 2111,
+      "end": 2129,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person"
+    },
+    {
+      "start": 2170,
+      "end": 2179,
+      "text": "545002190",
+      "label": "account_number"
+    },
+    {
+      "start": 3805,
+      "end": 3832,
+      "text": "b.kowalczyk@kmzadvisory.com",
+      "label": "private_email"
+    },
+    {
+      "start": 3855,
+      "end": 3884,
+      "text": "howard.ellison@vantagegrp.com",
+      "label": "private_email"
+    },
+    {
+      "start": 4025,
+      "end": 4039,
+      "text": "(212) 555-0184",
+      "label": "private_phone"
+    },
+    {
+      "start": 4074,
+      "end": 4088,
+      "text": "(843) 555-0158",
+      "label": "private_phone"
+    },
+    {
+      "start": 6320,
+      "end": 6338,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person"
+    },
+    {
+      "start": 6345,
+      "end": 6355,
+      "text": "02/03/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 6384,
+      "end": 6398,
+      "text": "Howard Ellison",
+      "label": "private_person"
+    },
+    {
+      "start": 6405,
+      "end": 6415,
+      "text": "02/03/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 6463,
+      "end": 6477,
+      "text": "February, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 6482,
+      "end": 6500,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person"
+    },
+    {
+      "start": 6505,
+      "end": 6519,
+      "text": "Howard Ellison",
+      "label": "private_person"
+    },
+    {
+      "start": 6565,
+      "end": 6578,
+      "text": "Felicia Grant",
+      "label": "private_person"
+    },
+    {
+      "start": 6626,
+      "end": 6636,
+      "text": "09/30/2027",
+      "label": "private_date"
+    },
+    {
+      "start": 6673,
+      "end": 6682,
+      "text": "Kowalczyk",
+      "label": "private_person"
+    },
+    {
+      "start": 7778,
+      "end": 7792,
+      "text": "Howard Ellison",
+      "label": "private_person"
+    },
+    {
+      "start": 8459,
+      "end": 8471,
+      "text": "VG-2025-0117",
+      "label": "account_number"
+    },
+    {
+      "start": 8510,
+      "end": 8521,
+      "text": "Renata Osei",
+      "label": "private_person"
+    },
+    {
+      "start": 8523,
+      "end": 8540,
+      "text": "ap@vantagegrp.com",
+      "label": "private_email"
+    },
+    {
+      "start": 8542,
+      "end": 8556,
+      "text": "(212) 555-0121",
+      "label": "private_phone"
+    },
+    {
+      "start": 9099,
+      "end": 9113,
+      "text": "Howard Ellison",
+      "label": "private_person"
+    },
+    {
+      "start": 9118,
+      "end": 9136,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "settlement_agreement",
+  "spans": [
+    {
+      "start": 124,
+      "end": 146,
+      "text": "27th day of June, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 156,
+      "end": 172,
+      "text": "Bruno Castellano",
+      "label": "private_person"
+    },
+    {
+      "start": 243,
+      "end": 256,
+      "text": "Dana Whitlock",
+      "label": "private_person"
+    },
+    {
+      "start": 476,
+      "end": 486,
+      "text": "07/11/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 555,
+      "end": 564,
+      "text": "121044738",
+      "label": "account_number"
+    },
+    {
+      "start": 574,
+      "end": 584,
+      "text": "3302214485",
+      "label": "account_number"
+    },
+    {
+      "start": 1727,
+      "end": 1740,
+      "text": "Dana Whitlock",
+      "label": "private_person"
+    },
+    {
+      "start": 2078,
+      "end": 2094,
+      "text": "Bruno Castellano",
+      "label": "private_person"
+    },
+    {
+      "start": 2101,
+      "end": 2111,
+      "text": "06/27/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 2138,
+      "end": 2151,
+      "text": "Dana Whitlock",
+      "label": "private_person"
+    },
+    {
+      "start": 2158,
+      "end": 2168,
+      "text": "06/27/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 2190,
+      "end": 2210,
+      "text": "Erica Yamamoto-Reyes",
+      "label": "private_person"
+    },
+    {
+      "start": 2234,
+      "end": 2258,
+      "text": "eyr@yamamotoreyeslaw.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2260,
+      "end": 2274,
+      "text": "(415) 555-0132",
+      "label": "private_phone"
+    },
+    {
+      "start": 2324,
+      "end": 2334,
+      "text": "Castellano",
+      "label": "private_person"
+    }
+  ]
+}

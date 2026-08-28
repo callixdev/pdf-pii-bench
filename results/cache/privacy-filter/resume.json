@@ -1,0 +1,83 @@
+{
+  "id": "resume",
+  "spans": [
+    {
+      "start": 6,
+      "end": 18,
+      "text": "VENKATARAMAN",
+      "label": "private_person"
+    },
+    {
+      "start": 40,
+      "end": 62,
+      "text": "priya.venkat@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 65,
+      "end": 79,
+      "text": "(408) 555-0136",
+      "label": "private_phone"
+    },
+    {
+      "start": 95,
+      "end": 137,
+      "text": "https://linkedin.com/in/priya-venkataraman",
+      "label": "private_url"
+    },
+    {
+      "start": 140,
+      "end": 166,
+      "text": "https://github.com/pvenkat",
+      "label": "private_url"
+    },
+    {
+      "start": 1627,
+      "end": 1672,
+      "text": "https://github.com/pvenkat/flink-iceberg-sink",
+      "label": "private_url"
+    },
+    {
+      "start": 1740,
+      "end": 1791,
+      "text": "https://www.priyavenkat.dev/talks/data-council-2024",
+      "label": "private_url"
+    },
+    {
+      "start": 2590,
+      "end": 2604,
+      "text": "Dr. Alan Reyes",
+      "label": "private_person"
+    },
+    {
+      "start": 2649,
+      "end": 2678,
+      "text": "alan.reyes@lumenanalytics.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2681,
+      "end": 2696,
+      "text": "+1 408-555-0171",
+      "label": "private_phone"
+    },
+    {
+      "start": 2697,
+      "end": 2710,
+      "text": "Mei-Ling Zhou",
+      "label": "private_person"
+    },
+    {
+      "start": 2739,
+      "end": 2763,
+      "text": "mzhou@halcyonmetrics.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2766,
+      "end": 2780,
+      "text": "(669) 555-0148",
+      "label": "private_phone"
+    }
+  ]
+}

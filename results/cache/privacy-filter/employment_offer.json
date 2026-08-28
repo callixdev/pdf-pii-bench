@@ -1,0 +1,59 @@
+{
+  "id": "employment_offer",
+  "spans": [
+    {
+      "start": 76,
+      "end": 87,
+      "text": "Omar Haddad",
+      "label": "private_person"
+    },
+    {
+      "start": 88,
+      "end": 128,
+      "text": "3316 Girard Ave S, Minneapolis, MN 55408",
+      "label": "private_address"
+    },
+    {
+      "start": 134,
+      "end": 138,
+      "text": "Omar",
+      "label": "private_person"
+    },
+    {
+      "start": 256,
+      "end": 271,
+      "text": "Dr. Wei-Lin Tan",
+      "label": "private_person"
+    },
+    {
+      "start": 1288,
+      "end": 1298,
+      "text": "06/27/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1443,
+      "end": 1472,
+      "text": "jbrooksokafor@thistledata.com",
+      "label": "private_email"
+    },
+    {
+      "start": 1476,
+      "end": 1490,
+      "text": "(612) 555-0148",
+      "label": "private_phone"
+    },
+    {
+      "start": 1563,
+      "end": 1584,
+      "text": "Janelle Brooks-Okafor",
+      "label": "private_person"
+    },
+    {
+      "start": 1703,
+      "end": 1714,
+      "text": "Omar Haddad",
+      "label": "private_person"
+    }
+  ]
+}

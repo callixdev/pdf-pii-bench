@@ -1,0 +1,71 @@
+{
+  "id": "email_support_ticket",
+  "spans": [
+    {
+      "start": 109,
+      "end": 120,
+      "text": "Rob Tessier",
+      "label": "private_person"
+    },
+    {
+      "start": 122,
+      "end": 146,
+      "text": "r.tessier@helioscloud.io",
+      "label": "private_email"
+    },
+    {
+      "start": 152,
+      "end": 164,
+      "text": "Amara Diallo",
+      "label": "private_person"
+    },
+    {
+      "start": 166,
+      "end": 198,
+      "text": "amara.diallo@finchandsparrow.com",
+      "label": "private_email"
+    },
+    {
+      "start": 241,
+      "end": 246,
+      "text": "Amara",
+      "label": "private_person"
+    },
+    {
+      "start": 642,
+      "end": 666,
+      "text": "sk-live-77e1b09c443a2f8d",
+      "label": "secret"
+    },
+    {
+      "start": 817,
+      "end": 857,
+      "text": "eyJhbGciOiJSUzI1NiJ9.c3VwcG9ydC10aWNrZXQ",
+      "label": "secret"
+    },
+    {
+      "start": 1290,
+      "end": 1301,
+      "text": "Rob Tessier",
+      "label": "private_person"
+    },
+    {
+      "start": 1370,
+      "end": 1382,
+      "text": "Amara Diallo",
+      "label": "private_person"
+    },
+    {
+      "start": 1830,
+      "end": 1842,
+      "text": "Amara Diallo",
+      "label": "private_person"
+    },
+    {
+      "start": 1885,
+      "end": 1917,
+      "text": "amara.diallo@finchandsparrow.com",
+      "label": "private_email"
+    }
+  ]
+}

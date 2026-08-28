@@ -1,0 +1,26 @@
+This dataset (the PDF documents, text_data.json, and
+ground_truth.json in this directory) is licensed
+under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). To view a copy of this license, visit:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Attribution: please cite this repository as the source.
+
+Carve-out: the filled tax forms in pdfs/ are built on blank IRS form
+templates, which are works of the United States Government and in the
+public domain (17 U.S.C. § 105); the underlying form layout and
+preprinted text are not covered by the CC BY 4.0 license and carry no
+copyright. The IRS requests credit to irs.gov as the source of the
+forms. The filled-in values are fabricated throughout — these are
+synthetic research documents, not valid tax filings. This project is
+not affiliated with or endorsed by the IRS.
+
+All personally identifiable information in every document is
+fabricated. Real brand and institution names that appear in
+transaction descriptions or as insurance carriers are used
+nominatively for realism; every identifier associated with them
+(account numbers, phone numbers, policy numbers) is fabricated.
+Email addresses and web domains of fictional organizations are
+invented; any resemblance to registered domains or real addresses
+is coincidental.

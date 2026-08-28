@@ -1,0 +1,101 @@
+{
+  "id": "email_sales_intro",
+  "spans": [
+    {
+      "start": 33,
+      "end": 52,
+      "text": "Marcus Aurelio Bell",
+      "label": "private_person"
+    },
+    {
+      "start": 54,
+      "end": 83,
+      "text": "mbell@northgate-analytics.com",
+      "label": "private_email"
+    },
+    {
+      "start": 89,
+      "end": 104,
+      "text": "Ingrid Sorensen",
+      "label": "private_person"
+    },
+    {
+      "start": 106,
+      "end": 141,
+      "text": "ingrid.sorensen@gulflinefreight.com",
+      "label": "private_email"
+    },
+    {
+      "start": 147,
+      "end": 157,
+      "text": "Tom Whelan",
+      "label": "private_person"
+    },
+    {
+      "start": 159,
+      "end": 191,
+      "text": "t.whelan@northgate-analytics.com",
+      "label": "private_email"
+    },
+    {
+      "start": 285,
+      "end": 291,
+      "text": "Ingrid",
+      "label": "private_person"
+    },
+    {
+      "start": 514,
+      "end": 524,
+      "text": "Tom Whelan",
+      "label": "private_person"
+    },
+    {
+      "start": 730,
+      "end": 749,
+      "text": "Marcus Aurelio Bell",
+      "label": "private_person"
+    },
+    {
+      "start": 879,
+      "end": 916,
+      "text": "https://linkedin.com/in/marcus-a-bell",
+      "label": "private_url"
+    },
+    {
+      "start": 920,
+      "end": 945,
+      "text": "Fri, 06 Jun 2025 at 14:48",
+      "label": "private_date"
+    },
+    {
+      "start": 947,
+      "end": 962,
+      "text": "Ingrid Sorensen",
+      "label": "private_person"
+    },
+    {
+      "start": 972,
+      "end": 978,
+      "text": "Marcus",
+      "label": "private_person"
+    },
+    {
+      "start": 1222,
+      "end": 1237,
+      "text": "+1 713-555-0190",
+      "label": "private_phone"
+    },
+    {
+      "start": 1240,
+      "end": 1255,
+      "text": "Ingrid Sorensen",
+      "label": "private_person"
+    },
+    {
+      "start": 1297,
+      "end": 1332,
+      "text": "ingrid.sorensen@gulflinefreight.com",
+      "label": "private_email"
+    }
+  ]
+}

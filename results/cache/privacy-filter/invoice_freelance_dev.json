@@ -1,0 +1,53 @@
+{
+  "id": "invoice_freelance_dev",
+  "spans": [
+    {
+      "start": 27,
+      "end": 42,
+      "text": "Santiago Ibarra",
+      "label": "private_person"
+    },
+    {
+      "start": 43,
+      "end": 59,
+      "text": "santi@ibarra.dev",
+      "label": "private_email"
+    },
+    {
+      "start": 62,
+      "end": 77,
+      "text": "+1 512-555-0148",
+      "label": "private_phone"
+    },
+    {
+      "start": 78,
+      "end": 96,
+      "text": "https://ibarra.dev",
+      "label": "private_url"
+    },
+    {
+      "start": 212,
+      "end": 224,
+      "text": "Rebecca Hoyt",
+      "label": "private_person"
+    },
+    {
+      "start": 241,
+      "end": 262,
+      "text": "rhoyt@parcelpilot.app",
+      "label": "private_email"
+    },
+    {
+      "start": 917,
+      "end": 927,
+      "text": "8830114427",
+      "label": "account_number"
+    },
+    {
+      "start": 1006,
+      "end": 1022,
+      "text": "santi@ibarra.dev",
+      "label": "private_email"
+    }
+  ]
+}

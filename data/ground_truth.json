@@ -1,0 +1,7949 @@
+{
+  "email_thread": [
+    {
+      "start": 41,
+      "end": 54,
+      "text": "Daniel Okafor",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 56,
+      "end": 90,
+      "text": "d.okafor@brightpath-consulting.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 96,
+      "end": 111,
+      "text": "Sarah Lindqvist",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 113,
+      "end": 151,
+      "text": "sarah.lindqvist@harborlineventures.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 157,
+      "end": 168,
+      "text": "Priya Raman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 170,
+      "end": 203,
+      "text": "p.raman@brightpath-consulting.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 211,
+      "end": 227,
+      "text": "Mon, 14 Apr 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 380,
+      "end": 385,
+      "text": "Sarah",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 475,
+      "end": 485,
+      "text": "04/22/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 593,
+      "end": 604,
+      "text": "Priya Raman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 850,
+      "end": 884,
+      "text": "d.okafor@brightpath-consulting.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1203,
+      "end": 1213,
+      "text": "04/18/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1267,
+      "end": 1278,
+      "text": "Priya Raman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1294,
+      "end": 1300,
+      "text": "Daniel",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1304,
+      "end": 1317,
+      "text": "Daniel Okafor",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1390,
+      "end": 1402,
+      "text": "512-555-0143",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1410,
+      "end": 1424,
+      "text": "(512) 555-0198",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1435,
+      "end": 1450,
+      "text": "+1 512-555-0177",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1451,
+      "end": 1480,
+      "text": "www.brightpath-consulting.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1481,
+      "end": 1518,
+      "text": "https://linkedin.com/in/daniel-okafor",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 1754,
+      "end": 1770,
+      "text": "Fri, 11 Apr 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1781,
+      "end": 1796,
+      "text": "Sarah Lindqvist",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1806,
+      "end": 1812,
+      "text": "Daniel",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1986,
+      "end": 2031,
+      "text": "225 Congress St, 14th Floor, Boston, MA 02110",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 2097,
+      "end": 2111,
+      "text": "(617) 555-0192",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 2139,
+      "end": 2150,
+      "text": "Annika Berg",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2194,
+      "end": 2199,
+      "text": "Priya",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2310,
+      "end": 2315,
+      "text": "Sarah",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2323,
+      "end": 2338,
+      "text": "Sarah Lindqvist",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2398,
+      "end": 2436,
+      "text": "sarah.lindqvist@harborlineventures.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2439,
+      "end": 2473,
+      "text": "https://www.harborlineventures.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 2477,
+      "end": 2493,
+      "text": "Tue, 08 Apr 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2504,
+      "end": 2517,
+      "text": "Daniel Okafor",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2528,
+      "end": 2533,
+      "text": "Sarah",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2782,
+      "end": 2796,
+      "text": "1-800-555-0123",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 2798,
+      "end": 2809,
+      "text": "PIN: 774021",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 2820,
+      "end": 2866,
+      "text": "https://meet.brightpath-consulting.com/j/88214",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 2981,
+      "end": 3027,
+      "text": "https://cal.brightpath-consulting.com/d-okafor",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 3040,
+      "end": 3046,
+      "text": "Daniel",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ],
+  "mailing_list": [
+    {
+      "start": 40,
+      "end": 75,
+      "text": "openmesh-dev@lists.openmesh-dev.org",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 105,
+      "end": 118,
+      "text": "Elena Vasquez",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 120,
+      "end": 144,
+      "text": "elena.v@openmesh-dev.org",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 152,
+      "end": 162,
+      "text": "2025-03-15",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 231,
+      "end": 241,
+      "text": "2025-03-15",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 243,
+      "end": 254,
+      "text": "Marcus Chen",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 450,
+      "end": 469,
+      "text": "sk-9f2b8c1d4e5a6f70",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 482,
+      "end": 494,
+      "text": "c0rrectH0rse",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 507,
+      "end": 532,
+      "text": "http://localhost:3000/api",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 550,
+      "end": 556,
+      "text": "Marcus",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 742,
+      "end": 776,
+      "text": "file:///Users/elena/logs/build.log",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 810,
+      "end": 857,
+      "text": "https://openmesh-dev.org/ci/build?id=4821&run=2",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 972,
+      "end": 1005,
+      "text": "eyJhbGciOiJIUzI1NiJ9.ZmFrZS1kZW1v",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 1090,
+      "end": 1104,
+      "text": "1-800-555-0199",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1106,
+      "end": 1115,
+      "text": "PIN: 4821",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 1166,
+      "end": 1195,
+      "text": "https://openmesh-dev.org/dash",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1201,
+      "end": 1206,
+      "text": "Elena",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1223,
+      "end": 1234,
+      "text": "Marcus Chen",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1236,
+      "end": 1255,
+      "text": "mchen@quarrylake.io",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1263,
+      "end": 1273,
+      "text": "2025-03-15",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1845,
+      "end": 1884,
+      "text": "https://ci.quarrylake.io/runners/health",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1913,
+      "end": 1919,
+      "text": "Marcus",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1922,
+      "end": 1941,
+      "text": "mchen@quarrylake.io",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1944,
+      "end": 1959,
+      "text": "+1 415-555-0126",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1976,
+      "end": 1990,
+      "text": "Tomas Ferreira",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1992,
+      "end": 2018,
+      "text": "tferreira@openmeshlabs.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2026,
+      "end": 2037,
+      "text": "15-Mar-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2135,
+      "end": 2145,
+      "text": "2025-04-01",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2224,
+      "end": 2235,
+      "text": "25-Mar-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2341,
+      "end": 2399,
+      "text": "https://wiki.openmesh-dev.org/releases/0.19.2?section=auth",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 2542,
+      "end": 2564,
+      "text": "admin@openmeshlabs.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 2606,
+      "end": 2611,
+      "text": "Tomas",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2652,
+      "end": 2693,
+      "text": "openmesh-dev-leave@lists.openmesh-dev.org",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 2725,
+      "end": 2762,
+      "text": "https://lists.openmesh-dev.org/manage",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 2773,
+      "end": 2824,
+      "text": "https://lists.openmesh-dev.org/archive/openmesh-dev",
+      "label": "private_url",
+      "subject": "org"
+    }
+  ],
+  "lease_agreement": [
+    {
+      "start": 125,
+      "end": 151,
+      "text": "this 12th day of May, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 168,
+      "end": 183,
+      "text": "Rosalind Achebe",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 201,
+      "end": 216,
+      "text": "Jonathan Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 438,
+      "end": 482,
+      "text": "2914 Bluebonnet Ln, Unit 4, Austin, TX 78704",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 644,
+      "end": 659,
+      "text": "Jonathan Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 667,
+      "end": 678,
+      "text": "Maya Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 729,
+      "end": 741,
+      "text": "June 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 754,
+      "end": 766,
+      "text": "May 31, 2026",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1241,
+      "end": 1250,
+      "text": "445509812",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1662,
+      "end": 1677,
+      "text": "Rosalind Achebe",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1802,
+      "end": 1817,
+      "text": "Jonathan Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2642,
+      "end": 2656,
+      "text": "(512) 555-0180",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 3838,
+      "end": 3864,
+      "text": "2914 Bluebonnet Ln, Unit 4",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 4762,
+      "end": 4793,
+      "text": "P.O. Box 5510, Austin, TX 78763",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 4810,
+      "end": 4838,
+      "text": "rachebe.properties@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 4905,
+      "end": 4919,
+      "text": "(512) 555-0121",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 5932,
+      "end": 5946,
+      "text": "(512) 555-0180",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 7660,
+      "end": 7686,
+      "text": "2914 Bluebonnet Ln, Unit 4",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 7710,
+      "end": 7725,
+      "text": "Rosalind Achebe",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 7732,
+      "end": 7742,
+      "text": "05/12/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 7751,
+      "end": 7766,
+      "text": "Jonathan Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 7773,
+      "end": 7783,
+      "text": "05/12/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 7960,
+      "end": 7970,
+      "text": "05/28/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 8239,
+      "end": 8254,
+      "text": "Rosalind Achebe",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 8258,
+      "end": 8272,
+      "text": "(512) 555-0121",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 9279,
+      "end": 9322,
+      "text": "https://portal.hillcountrypm.com/bluebonnet",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 9472,
+      "end": 9487,
+      "text": "Jonathan Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 9494,
+      "end": 9504,
+      "text": "05/12/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 9535,
+      "end": 9561,
+      "text": "2914 Bluebonnet Ln, Unit 4",
+      "label": "private_address",
+      "subject": "person"
+    }
+  ],
+  "bank_statement": [
+    {
+      "start": 52,
+      "end": 104,
+      "text": "1200 Commerce Boulevard, Suite 800 Seattle, WA 98101",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 110,
+      "end": 124,
+      "text": "(206) 555-0142",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 132,
+      "end": 146,
+      "text": "(206) 555-0143",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 147,
+      "end": 168,
+      "text": "www.firstmeridian.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 184,
+      "end": 201,
+      "text": "Alan J. Whitfield",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 202,
+      "end": 247,
+      "text": "88 Crestview Ter Apt 12 Denver, CO 80211-3419",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 284,
+      "end": 292,
+      "text": "****7702",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 342,
+      "end": 355,
+      "text": "April 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 358,
+      "end": 372,
+      "text": "April 30, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 389,
+      "end": 398,
+      "text": "102044760",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 418,
+      "end": 428,
+      "text": "04/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 534,
+      "end": 544,
+      "text": "04/30/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 620,
+      "end": 625,
+      "text": "04/01",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 692,
+      "end": 697,
+      "text": "04/02",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 758,
+      "end": 763,
+      "text": "04/03",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 827,
+      "end": 832,
+      "text": "04/04",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 850,
+      "end": 864,
+      "text": "Dana Whitfield",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 867,
+      "end": 893,
+      "text": "dana.whitfield@outlook.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 912,
+      "end": 917,
+      "text": "04/05",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 954,
+      "end": 961,
+      "text": "77-4418",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 980,
+      "end": 985,
+      "text": "04/07",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1047,
+      "end": 1052,
+      "text": "04/08",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1070,
+      "end": 1093,
+      "text": "1601 Blake St Denver CO",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 1112,
+      "end": 1117,
+      "text": "04/09",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1134,
+      "end": 1143,
+      "text": "@kelsey_r",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1175,
+      "end": 1180,
+      "text": "04/10",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1248,
+      "end": 1253,
+      "text": "04/11",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1280,
+      "end": 1288,
+      "text": "****9917",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1306,
+      "end": 1311,
+      "text": "04/12",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1381,
+      "end": 1386,
+      "text": "04/14",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1404,
+      "end": 1421,
+      "text": "Gregory Whitfield",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1436,
+      "end": 1440,
+      "text": "3315",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1461,
+      "end": 1466,
+      "text": "04/15",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1538,
+      "end": 1543,
+      "text": "04/16",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1604,
+      "end": 1609,
+      "text": "04/17",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1679,
+      "end": 1684,
+      "text": "04/18",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1759,
+      "end": 1764,
+      "text": "04/19",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1784,
+      "end": 1798,
+      "text": "Rachel Okonkwo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1829,
+      "end": 1834,
+      "text": "04/21",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1875,
+      "end": 1887,
+      "text": "503-555-0168",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1905,
+      "end": 1910,
+      "text": "04/22",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1951,
+      "end": 1961,
+      "text": "7301220847",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1982,
+      "end": 1987,
+      "text": "04/23",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2007,
+      "end": 2024,
+      "text": "Alan J. Whitfield",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2029,
+      "end": 2037,
+      "text": "****9201",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 2056,
+      "end": 2061,
+      "text": "04/24",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2094,
+      "end": 2106,
+      "text": "800-555-0139",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 2127,
+      "end": 2132,
+      "text": "04/25",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2165,
+      "end": 2179,
+      "text": "8497-2210-3348",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 2197,
+      "end": 2202,
+      "text": "04/26",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2220,
+      "end": 2229,
+      "text": "Lisa Park",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2232,
+      "end": 2251,
+      "text": "lisa.park@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2269,
+      "end": 2274,
+      "text": "04/28",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2340,
+      "end": 2345,
+      "text": "04/29",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2377,
+      "end": 2382,
+      "text": "04/30",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2419,
+      "end": 2424,
+      "text": "04/30",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2486,
+      "end": 2491,
+      "text": "04/30",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2509,
+      "end": 2523,
+      "text": "Dana Whitfield",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2526,
+      "end": 2552,
+      "text": "dana.whitfield@outlook.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2613,
+      "end": 2666,
+      "text": "1200 Commerce Boulevard, Suite 800, Seattle, WA 98101",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 2750,
+      "end": 2755,
+      "text": "04/01",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2765,
+      "end": 2770,
+      "text": "04/11",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2781,
+      "end": 2786,
+      "text": "04/22",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2797,
+      "end": 2802,
+      "text": "04/02",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2813,
+      "end": 2818,
+      "text": "04/12",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2829,
+      "end": 2834,
+      "text": "04/23",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2845,
+      "end": 2850,
+      "text": "04/04",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2861,
+      "end": 2866,
+      "text": "04/14",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2877,
+      "end": 2882,
+      "text": "04/25",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2893,
+      "end": 2898,
+      "text": "04/07",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2909,
+      "end": 2914,
+      "text": "04/16",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2925,
+      "end": 2930,
+      "text": "04/28",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2941,
+      "end": 2946,
+      "text": "04/09",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2957,
+      "end": 2962,
+      "text": "04/19",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2973,
+      "end": 2978,
+      "text": "04/30",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 3102,
+      "end": 3116,
+      "text": "(206) 555-0142",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 3129,
+      "end": 3155,
+      "text": "disputes@firstmeridian.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 3203,
+      "end": 3256,
+      "text": "1200 Commerce Boulevard, Suite 100, Seattle, WA 98101",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 3543,
+      "end": 3577,
+      "text": "https://www.firstmeridian.com/fees",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 3711,
+      "end": 3749,
+      "text": "P.O. Box 34120, Seattle, WA 98124-1120",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 3759,
+      "end": 3773,
+      "text": "(800) 555-0134",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 3952,
+      "end": 4015,
+      "text": "https://www.firstmeridian.com/login?acct=7702&statement=2025-04",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 4033,
+      "end": 4047,
+      "text": "(800) 555-0134",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 4091,
+      "end": 4144,
+      "text": "1200 Commerce Boulevard, Suite 800, Seattle, WA 98101",
+      "label": "private_address",
+      "subject": "org"
+    }
+  ],
+  "invoice": [
+    {
+      "start": 27,
+      "end": 49,
+      "text": "hello@cedarpine.design",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 52,
+      "end": 66,
+      "text": "(503) 555-0187",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 67,
+      "end": 109,
+      "text": "https://www.cedarpine.design/invoices/1042",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 115,
+      "end": 125,
+      "text": "84-2201956",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 154,
+      "end": 164,
+      "text": "2025-04-18",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 178,
+      "end": 189,
+      "text": "May 2, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 225,
+      "end": 237,
+      "text": "Nadia Rahman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 254,
+      "end": 269,
+      "text": "730 Fremont Ave",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 286,
+      "end": 295,
+      "text": "Suite 205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 296,
+      "end": 317,
+      "text": "Minneapolis, MN 55403",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 318,
+      "end": 344,
+      "text": "n.rahman@arclightgoods.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 394,
+      "end": 406,
+      "text": "Nadia Rahman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 407,
+      "end": 449,
+      "text": "117 Washington Ave N Minneapolis, MN 55401",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 895,
+      "end": 905,
+      "text": "04/02/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1085,
+      "end": 1094,
+      "text": "112231234",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1104,
+      "end": 1113,
+      "text": "091044282",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1218,
+      "end": 1237,
+      "text": "4111 1111 1111 1111",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1243,
+      "end": 1248,
+      "text": "09/27",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1315,
+      "end": 1339,
+      "text": "billing@cedarpine.design",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 1378,
+      "end": 1389,
+      "text": "May 2, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1432,
+      "end": 1452,
+      "text": "503.555.0142 ext. 42",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1567,
+      "end": 1601,
+      "text": "P.O. Box 40221, Portland, OR 97240",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 1646,
+      "end": 1657,
+      "text": "May 2, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1677,
+      "end": 1689,
+      "text": "Wes Calloway",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1691,
+      "end": 1705,
+      "text": "(503) 555-0187",
+      "label": "private_phone",
+      "subject": "org"
+    }
+  ],
+  "consulting_agreement": [
+    {
+      "start": 98,
+      "end": 128,
+      "text": "this 3rd day of February, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 161,
+      "end": 179,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 207,
+      "end": 246,
+      "text": "1105 Sycamore Row, Charleston, SC 29401",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 339,
+      "end": 383,
+      "text": "830 Third Ave, 9th Floor, New York, NY 10022",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 449,
+      "end": 463,
+      "text": "Howard Ellison",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 530,
+      "end": 548,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 671,
+      "end": 689,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 880,
+      "end": 894,
+      "text": "Howard Ellison",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1116,
+      "end": 1126,
+      "text": "02/03/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1640,
+      "end": 1649,
+      "text": "053204413",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1666,
+      "end": 1676,
+      "text": "7714402611",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1917,
+      "end": 1931,
+      "text": "Howard Ellison",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2111,
+      "end": 2129,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2170,
+      "end": 2179,
+      "text": "545002190",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 3805,
+      "end": 3832,
+      "text": "b.kowalczyk@kmzadvisory.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 3855,
+      "end": 3884,
+      "text": "howard.ellison@vantagegrp.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 4025,
+      "end": 4039,
+      "text": "(212) 555-0184",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 4074,
+      "end": 4088,
+      "text": "(843) 555-0158",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 4125,
+      "end": 4134,
+      "text": "Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6320,
+      "end": 6338,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6345,
+      "end": 6355,
+      "text": "02/03/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 6384,
+      "end": 6398,
+      "text": "Howard Ellison",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6405,
+      "end": 6415,
+      "text": "02/03/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 6447,
+      "end": 6477,
+      "text": "this 3rd day of February, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 6482,
+      "end": 6500,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6505,
+      "end": 6519,
+      "text": "Howard Ellison",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6565,
+      "end": 6578,
+      "text": "Felicia Grant",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6626,
+      "end": 6636,
+      "text": "09/30/2027",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 6673,
+      "end": 6682,
+      "text": "Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 7535,
+      "end": 7549,
+      "text": "March 14, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 7583,
+      "end": 7597,
+      "text": "April 30, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 7633,
+      "end": 7646,
+      "text": "June 16, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 7679,
+      "end": 7694,
+      "text": "August 29, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 7778,
+      "end": 7792,
+      "text": "Howard Ellison",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 8390,
+      "end": 8415,
+      "text": "invoicing@kmzadvisory.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 8510,
+      "end": 8521,
+      "text": "Renata Osei",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 8523,
+      "end": 8540,
+      "text": "ap@vantagegrp.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 8542,
+      "end": 8556,
+      "text": "(212) 555-0121",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 9099,
+      "end": 9113,
+      "text": "Howard Ellison",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 9118,
+      "end": 9136,
+      "text": "Beatrice Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 9199,
+      "end": 9208,
+      "text": "Kowalczyk",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ],
+  "medical_intake": [
+    {
+      "start": 49,
+      "end": 93,
+      "text": "2201 E 18th Ave, Suite 240, Denver, CO 80206",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 99,
+      "end": 113,
+      "text": "(720) 555-0100",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 121,
+      "end": 135,
+      "text": "(720) 555-0101",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 136,
+      "end": 164,
+      "text": "www.eastsidefamilyhealth.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 183,
+      "end": 194,
+      "text": "15-May-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 209,
+      "end": 222,
+      "text": "Imani Walcott",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 265,
+      "end": 283,
+      "text": "Samuel T. Nakamura",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 289,
+      "end": 299,
+      "text": "07/22/1983",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 305,
+      "end": 316,
+      "text": "612-00-5578",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 360,
+      "end": 374,
+      "text": "(720) 555-0164",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 389,
+      "end": 412,
+      "text": "(720) 555-0190 ext. 218",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 420,
+      "end": 445,
+      "text": "samuel.nakamura@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 455,
+      "end": 472,
+      "text": "4471 E Colfax Ave",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 473,
+      "end": 480,
+      "text": "Apt 305",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 481,
+      "end": 497,
+      "text": "Denver, CO 80220",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 547,
+      "end": 579,
+      "text": "3901 E 8th Ave, Denver, CO 80206",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 596,
+      "end": 610,
+      "text": "(303) 555-0177",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 689,
+      "end": 701,
+      "text": "XQR448210077",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 711,
+      "end": 719,
+      "text": "GRP-2210",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 735,
+      "end": 753,
+      "text": "Samuel T. Nakamura",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 777,
+      "end": 787,
+      "text": "01/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 848,
+      "end": 861,
+      "text": "Yuki Nakamura",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 890,
+      "end": 904,
+      "text": "(720) 555-0129",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 919,
+      "end": 933,
+      "text": "Kenji Nakamura",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 945,
+      "end": 957,
+      "text": "415.555.0183",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1542,
+      "end": 1555,
+      "text": "March 3, 2024",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1587,
+      "end": 1597,
+      "text": "08/14/2009",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1649,
+      "end": 1665,
+      "text": "Owen Castellanos",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1706,
+      "end": 1720,
+      "text": "(303) 555-0148",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 2602,
+      "end": 2612,
+      "text": "10/12/2024",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2638,
+      "end": 2648,
+      "text": "10/12/2024",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 3436,
+      "end": 3446,
+      "text": "01/15/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 3649,
+      "end": 3688,
+      "text": "https://portal.eastsidefamilyhealth.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 3726,
+      "end": 3742,
+      "text": "Owen Castellanos",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 3926,
+      "end": 3944,
+      "text": "Samuel T. Nakamura",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 3951,
+      "end": 3961,
+      "text": "05/15/2025",
+      "label": "private_date",
+      "subject": "person"
+    }
+  ],
+  "resume": [
+    {
+      "start": 0,
+      "end": 18,
+      "text": "PRIYA VENKATARAMAN",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 40,
+      "end": 62,
+      "text": "priya.venkat@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 65,
+      "end": 79,
+      "text": "(408) 555-0136",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 95,
+      "end": 137,
+      "text": "https://linkedin.com/in/priya-venkataraman",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 140,
+      "end": 166,
+      "text": "https://github.com/pvenkat",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 178,
+      "end": 197,
+      "text": "www.priyavenkat.dev",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 491,
+      "end": 527,
+      "text": "500 Almaden Blvd, San Jose, CA 95110",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 1013,
+      "end": 1052,
+      "text": "221 River Oaks Pkwy, San Jose, CA 95134",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 1627,
+      "end": 1672,
+      "text": "https://github.com/pvenkat/flink-iceberg-sink",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 1740,
+      "end": 1791,
+      "text": "https://www.priyavenkat.dev/talks/data-council-2024",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 1922,
+      "end": 1932,
+      "text": "2025-01-10",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1975,
+      "end": 1986,
+      "text": "15-Mar-2023",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2594,
+      "end": 2604,
+      "text": "Alan Reyes",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2649,
+      "end": 2678,
+      "text": "alan.reyes@lumenanalytics.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2681,
+      "end": 2696,
+      "text": "+1 408-555-0171",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 2697,
+      "end": 2710,
+      "text": "Mei-Ling Zhou",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2739,
+      "end": 2763,
+      "text": "mzhou@halcyonmetrics.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2766,
+      "end": 2780,
+      "text": "(669) 555-0148",
+      "label": "private_phone",
+      "subject": "person"
+    }
+  ],
+  "irs_notice": [
+    {
+      "start": 96,
+      "end": 107,
+      "text": "May 5, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 132,
+      "end": 143,
+      "text": "401-00-6613",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 164,
+      "end": 173,
+      "text": "88214-771",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 189,
+      "end": 203,
+      "text": "(800) 555-0148",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 204,
+      "end": 224,
+      "text": "GERALD M FITZPATRICK",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 225,
+      "end": 242,
+      "text": "92 HARBOR VIEW RD",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 243,
+      "end": 265,
+      "text": "MILFORD, CT 06460-2215",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 402,
+      "end": 414,
+      "text": "June 4, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 457,
+      "end": 477,
+      "text": "Gerald M Fitzpatrick",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 701,
+      "end": 711,
+      "text": "06-04-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 912,
+      "end": 920,
+      "text": "****7702",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 964,
+      "end": 974,
+      "text": "GRF-119402",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1018,
+      "end": 1028,
+      "text": "GRF-119402",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1129,
+      "end": 1140,
+      "text": "401-00-6613",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1653,
+      "end": 1667,
+      "text": "April 15, 2024",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1796,
+      "end": 1808,
+      "text": "June 4, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2078,
+      "end": 2088,
+      "text": "06-04-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2186,
+      "end": 2204,
+      "text": "www.irs.gov/cp2000",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 2488,
+      "end": 2499,
+      "text": "May 5, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2610,
+      "end": 2620,
+      "text": "06-04-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2719,
+      "end": 2739,
+      "text": "www.irs.gov/payments",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 2849,
+      "end": 2864,
+      "text": "www.irs.gov/opa",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 2962,
+      "end": 2973,
+      "text": "401-00-6613",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 3019,
+      "end": 3033,
+      "text": "(800) 555-0148",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 3270,
+      "end": 3288,
+      "text": "www.irs.gov/cp2000",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 3375,
+      "end": 3391,
+      "text": "www.irs.gov/litc",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 3400,
+      "end": 3414,
+      "text": "(800) 555-0186",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 3802,
+      "end": 3819,
+      "text": "www.irs.gov/forms",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 4037,
+      "end": 4065,
+      "text": "www.taxpayeradvocate.irs.gov",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 4074,
+      "end": 4088,
+      "text": "(877) 555-0128",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 4184,
+      "end": 4204,
+      "text": "Gerald M Fitzpatrick",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 4210,
+      "end": 4221,
+      "text": "401-00-6613",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4242,
+      "end": 4251,
+      "text": "88214-771",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4306,
+      "end": 4348,
+      "text": "P.O. Box 802501, Cincinnati, OH 45280-2501",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 4435,
+      "end": 4446,
+      "text": "May 5, 2025",
+      "label": "private_date",
+      "subject": "person"
+    }
+  ],
+  "w2_form": [
+    {
+      "start": 157,
+      "end": 188,
+      "text": "www.socialsecurity.gov/employer",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 882,
+      "end": 896,
+      "text": "www.irs.gov/w2",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 1323,
+      "end": 1345,
+      "text": "www.irs.gov/orderforms",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 2821,
+      "end": 2832,
+      "text": "987-65-4321",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 2833,
+      "end": 2843,
+      "text": "12-3456789",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 2876,
+      "end": 2907,
+      "text": "4200 Industrial Pkwy, Suite 310",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 2908,
+      "end": 2924,
+      "text": "Austin, TX 78745",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 2925,
+      "end": 2932,
+      "text": "1234567",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 2933,
+      "end": 2954,
+      "text": "Margaret R Thornberry",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2955,
+      "end": 2983,
+      "text": "1847 Willow Creek Dr, Apt 2B",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 2984,
+      "end": 3002,
+      "text": "Portland, OR 97205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 3086,
+      "end": 3098,
+      "text": "OR-4482213-9",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4062,
+      "end": 4073,
+      "text": "987-65-4321",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4074,
+      "end": 4084,
+      "text": "12-3456789",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4117,
+      "end": 4148,
+      "text": "4200 Industrial Pkwy, Suite 310",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4149,
+      "end": 4165,
+      "text": "Austin, TX 78745",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4166,
+      "end": 4173,
+      "text": "1234567",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4174,
+      "end": 4195,
+      "text": "Margaret R Thornberry",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 4196,
+      "end": 4224,
+      "text": "1847 Willow Creek Dr, Apt 2B",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 4225,
+      "end": 4243,
+      "text": "Portland, OR 97205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 4327,
+      "end": 4339,
+      "text": "OR-4482213-9",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4465,
+      "end": 4482,
+      "text": "www.irs.gov/efile",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 5472,
+      "end": 5483,
+      "text": "987-65-4321",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5484,
+      "end": 5494,
+      "text": "12-3456789",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5527,
+      "end": 5558,
+      "text": "4200 Industrial Pkwy, Suite 310",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 5559,
+      "end": 5575,
+      "text": "Austin, TX 78745",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 5576,
+      "end": 5583,
+      "text": "1234567",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5584,
+      "end": 5605,
+      "text": "Margaret R Thornberry",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5606,
+      "end": 5634,
+      "text": "1847 Willow Creek Dr, Apt 2B",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5635,
+      "end": 5653,
+      "text": "Portland, OR 97205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5737,
+      "end": 5749,
+      "text": "OR-4482213-9",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5916,
+      "end": 5934,
+      "text": "www.irs.gov/FormW2",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 6792,
+      "end": 6808,
+      "text": "www.irs.gov/EITC",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 7896,
+      "end": 7908,
+      "text": "800-772-1213",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 7948,
+      "end": 7959,
+      "text": "www.SSA.gov",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 9994,
+      "end": 10005,
+      "text": "987-65-4321",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 10006,
+      "end": 10016,
+      "text": "12-3456789",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 10049,
+      "end": 10080,
+      "text": "4200 Industrial Pkwy, Suite 310",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 10081,
+      "end": 10097,
+      "text": "Austin, TX 78745",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 10098,
+      "end": 10105,
+      "text": "1234567",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 10106,
+      "end": 10127,
+      "text": "Margaret R Thornberry",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 10128,
+      "end": 10156,
+      "text": "1847 Willow Creek Dr, Apt 2B",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 10157,
+      "end": 10175,
+      "text": "Portland, OR 97205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 10259,
+      "end": 10271,
+      "text": "OR-4482213-9",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 16360,
+      "end": 16371,
+      "text": "987-65-4321",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 16372,
+      "end": 16382,
+      "text": "12-3456789",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 16415,
+      "end": 16446,
+      "text": "4200 Industrial Pkwy, Suite 310",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 16447,
+      "end": 16463,
+      "text": "Austin, TX 78745",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 16464,
+      "end": 16471,
+      "text": "1234567",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 16472,
+      "end": 16493,
+      "text": "Margaret R Thornberry",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 16494,
+      "end": 16522,
+      "text": "1847 Willow Creek Dr, Apt 2B",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 16523,
+      "end": 16541,
+      "text": "Portland, OR 97205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 16625,
+      "end": 16637,
+      "text": "OR-4482213-9",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 22053,
+      "end": 22064,
+      "text": "987-65-4321",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 22065,
+      "end": 22075,
+      "text": "12-3456789",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 22108,
+      "end": 22139,
+      "text": "4200 Industrial Pkwy, Suite 310",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 22140,
+      "end": 22156,
+      "text": "Austin, TX 78745",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 22157,
+      "end": 22164,
+      "text": "1234567",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 22165,
+      "end": 22186,
+      "text": "Margaret R Thornberry",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 22187,
+      "end": 22215,
+      "text": "1847 Willow Creek Dr, Apt 2B",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 22216,
+      "end": 22234,
+      "text": "Portland, OR 97205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 22318,
+      "end": 22330,
+      "text": "OR-4482213-9",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 22576,
+      "end": 22598,
+      "text": "www.irs.gov/OrderForms",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 23151,
+      "end": 23163,
+      "text": "866-455-7438",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 23167,
+      "end": 23179,
+      "text": "304-263-8700",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 23921,
+      "end": 23941,
+      "text": "www.SSA.gov/employer",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 24109,
+      "end": 24127,
+      "text": "www.irs.gov/FormW2",
+      "label": "private_url",
+      "subject": "agency"
+    }
+  ],
+  "form_1040": [
+    {
+      "start": 5348,
+      "end": 5368,
+      "text": "Marcus D. Villanueva",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5369,
+      "end": 5386,
+      "text": "5 2 2 0 0 8 8 1 3",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5387,
+      "end": 5406,
+      "text": "Elena R. Villanueva",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5407,
+      "end": 5424,
+      "text": "5 2 2 0 0 8 4 4 1",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5425,
+      "end": 5445,
+      "text": "88 Ledgewood Terrace",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5446,
+      "end": 5463,
+      "text": "Hartford CT 06103",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5468,
+      "end": 5473,
+      "text": "Sofia",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5474,
+      "end": 5479,
+      "text": "Diego",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5480,
+      "end": 5490,
+      "text": "Villanueva",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5491,
+      "end": 5501,
+      "text": "Villanueva",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5502,
+      "end": 5519,
+      "text": "5 2 2 0 0 9 9 0 2",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5520,
+      "end": 5537,
+      "text": "5 2 2 0 0 9 9 1 1",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 9188,
+      "end": 9208,
+      "text": "www.irs.gov/Payments",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 10337,
+      "end": 10357,
+      "text": "www.irs.gov/Form1040",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 10460,
+      "end": 10477,
+      "text": "2 1 1 1 7 0 1 0 1",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 10480,
+      "end": 10503,
+      "text": "0 0 4 4 1 7 7 2 0 1 8 8",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 10506,
+      "end": 10516,
+      "text": "Priya Shah",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 10517,
+      "end": 10531,
+      "text": "(860) 555-0134",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 10532,
+      "end": 10541,
+      "text": "9 8 2 2 1",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 10557,
+      "end": 10568,
+      "text": "4 8 2 9 1 3",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 10580,
+      "end": 10594,
+      "text": "(860) 555-0177",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 10595,
+      "end": 10619,
+      "text": "m.villanueva@comcast.net",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 10620,
+      "end": 10637,
+      "text": "Harold B. Jenkins",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 10638,
+      "end": 10647,
+      "text": "P01438822",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 10686,
+      "end": 10700,
+      "text": "(860) 555-0190",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 10701,
+      "end": 10750,
+      "text": "310 Farmington Ave, Suite 204, Hartford, CT 06105",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 10751,
+      "end": 10761,
+      "text": "06-1447792",
+      "label": "account_number",
+      "subject": "person"
+    }
+  ],
+  "form_w9": [
+    {
+      "start": 146,
+      "end": 164,
+      "text": "www.irs.gov/FormW9",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 4467,
+      "end": 4485,
+      "text": "www.irs.gov/FormW9",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 5664,
+      "end": 5683,
+      "text": "Tessa Marie Holcomb",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5710,
+      "end": 5737,
+      "text": "5521 NE Sandy Blvd, Unit 12",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5738,
+      "end": 5756,
+      "text": "Portland, OR 97213",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5782,
+      "end": 5816,
+      "text": "400 SW 6th Ave, Portland, OR 97204",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 5817,
+      "end": 5826,
+      "text": "PDX-20441",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5827,
+      "end": 5844,
+      "text": "5 4 5 0 0 3 3 0 8",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 27393,
+      "end": 27404,
+      "text": "www.SSA.gov",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 27445,
+      "end": 27457,
+      "text": "800-772-1213",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 27705,
+      "end": 27720,
+      "text": "www.irs.gov/EIN",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 27729,
+      "end": 27746,
+      "text": "www.irs.gov/Forms",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 27820,
+      "end": 27842,
+      "text": "www.irs.gov/OrderForms",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 34727,
+      "end": 34739,
+      "text": "800-908-4490",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 35186,
+      "end": 35198,
+      "text": "877-777-4778",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 35210,
+      "end": 35222,
+      "text": "800-829-4059",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 35986,
+      "end": 36002,
+      "text": "phishing@irs.gov",
+      "label": "private_email",
+      "subject": "agency"
+    },
+    {
+      "start": 36145,
+      "end": 36157,
+      "text": "800-366-4484",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 36228,
+      "end": 36240,
+      "text": "spam@uce.gov",
+      "label": "private_email",
+      "subject": "agency"
+    },
+    {
+      "start": 36259,
+      "end": 36280,
+      "text": "www.ftc.gov/complaint",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 36310,
+      "end": 36329,
+      "text": "www.ftc.gov/idtheft",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 36346,
+      "end": 36358,
+      "text": "877-438-4338",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 36412,
+      "end": 36433,
+      "text": "www.IdentityTheft.gov",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 36455,
+      "end": 36480,
+      "text": "www.irs.gov/IdentityTheft",
+      "label": "private_url",
+      "subject": "agency"
+    }
+  ],
+  "form_w4": [
+    {
+      "start": 576,
+      "end": 588,
+      "text": "800-772-1213",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 598,
+      "end": 609,
+      "text": "www.ssa.gov",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 1110,
+      "end": 1127,
+      "text": "www.irs.gov/W4App",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 1856,
+      "end": 1873,
+      "text": "www.irs.gov/W4App",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 2178,
+      "end": 2195,
+      "text": "www.irs.gov/W4App",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 4732,
+      "end": 4746,
+      "text": "Devon A. Marsh",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 4747,
+      "end": 4768,
+      "text": "914 Cypress Hollow Ln",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 4769,
+      "end": 4787,
+      "text": "Savannah, GA 31405",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 4788,
+      "end": 4799,
+      "text": "531-00-8042",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4845,
+      "end": 4887,
+      "text": "2200 Ocean Terminal Dr, Savannah, GA 31401",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4888,
+      "end": 4898,
+      "text": "01/06/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 4899,
+      "end": 4909,
+      "text": "58-3319027",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5176,
+      "end": 5194,
+      "text": "www.irs.gov/FormW4",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 7189,
+      "end": 7206,
+      "text": "www.irs.gov/W4App",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 8253,
+      "end": 8270,
+      "text": "www.irs.gov/W4App",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 12847,
+      "end": 12864,
+      "text": "www.irs.gov/W4App",
+      "label": "private_url",
+      "subject": "agency"
+    }
+  ],
+  "form_8822": [
+    {
+      "start": 317,
+      "end": 337,
+      "text": "www.irs.gov/form8822",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 2305,
+      "end": 2321,
+      "text": "Corinne A. Bauer",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2322,
+      "end": 2333,
+      "text": "544-00-7719",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 2334,
+      "end": 2349,
+      "text": "Nathan J. Bauer",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2350,
+      "end": 2361,
+      "text": "544-00-8826",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 2362,
+      "end": 2382,
+      "text": "Corinne A. Delacroix",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2383,
+      "end": 2423,
+      "text": "77 Quail Run Rd, Apt 3C, Boise, ID 83702",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 2424,
+      "end": 2467,
+      "text": "1420 Sagebrush Way, Meridian, ID 83646-5210",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 2468,
+      "end": 2482,
+      "text": "(208) 555-0164",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 2483,
+      "end": 2493,
+      "text": "03/18/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2653,
+      "end": 2673,
+      "text": "www.irs.gov/form8822",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 8207,
+      "end": 8231,
+      "text": "www.irs.gov/FormComments",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 8321,
+      "end": 8377,
+      "text": "1111 Constitution Ave. NW, IR-6526, Washington, DC 20224",
+      "label": "private_address",
+      "subject": "agency"
+    }
+  ],
+  "form_ss4": [
+    {
+      "start": 364,
+      "end": 383,
+      "text": "www.irs.gov/FormSS4",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 4563,
+      "end": 4577,
+      "text": "P.O. Box 88412",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4578,
+      "end": 4594,
+      "text": "Denver, CO 80208",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4595,
+      "end": 4618,
+      "text": "3175 Blake St, Unit 190",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4619,
+      "end": 4635,
+      "text": "Denver, CO 80205",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4636,
+      "end": 4659,
+      "text": "Denver County, Colorado",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4660,
+      "end": 4673,
+      "text": "Yusuf El-Amin",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 4674,
+      "end": 4685,
+      "text": "521-00-6633",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 4716,
+      "end": 4726,
+      "text": "05/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 4738,
+      "end": 4748,
+      "text": "07/15/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 4792,
+      "end": 4809,
+      "text": "Monica Reyes-Tran",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 4810,
+      "end": 4824,
+      "text": "(303) 555-0142",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 4825,
+      "end": 4869,
+      "text": "1600 Glenarm Pl, Suite 900, Denver, CO 80202",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 4870,
+      "end": 4884,
+      "text": "(303) 555-0143",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 4885,
+      "end": 4898,
+      "text": "Yusuf El-Amin",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 4916,
+      "end": 4930,
+      "text": "(720) 555-0117",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 4931,
+      "end": 4945,
+      "text": "(720) 555-0118",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 5179,
+      "end": 5198,
+      "text": "www.irs.gov/FormSS4",
+      "label": "private_url",
+      "subject": "agency"
+    }
+  ],
+  "form_1099nec": [
+    {
+      "start": 4140,
+      "end": 4160,
+      "text": "www.irs.gov/Form1099",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 4869,
+      "end": 4892,
+      "text": "www.irs.gov/Form1099NEC",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 5010,
+      "end": 5024,
+      "text": "400 SW 6th Ave",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 5025,
+      "end": 5035,
+      "text": "Suite 1200",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 5036,
+      "end": 5054,
+      "text": "Portland, OR 97204",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 5055,
+      "end": 5069,
+      "text": "(503) 555-0119",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 5070,
+      "end": 5080,
+      "text": "93-2205718",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5081,
+      "end": 5092,
+      "text": "545-00-3308",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 5093,
+      "end": 5112,
+      "text": "Tessa Marie Holcomb",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 5113,
+      "end": 5131,
+      "text": "5521 NE Sandy Blvd",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5132,
+      "end": 5139,
+      "text": "Unit 12",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5140,
+      "end": 5158,
+      "text": "Portland, OR 97213",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 5159,
+      "end": 5167,
+      "text": "LDC-4471",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 6017,
+      "end": 6040,
+      "text": "www.irs.gov/Form1099NEC",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 6072,
+      "end": 6086,
+      "text": "400 SW 6th Ave",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 6087,
+      "end": 6097,
+      "text": "Suite 1200",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 6098,
+      "end": 6116,
+      "text": "Portland, OR 97204",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 6117,
+      "end": 6131,
+      "text": "(503) 555-0119",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 6132,
+      "end": 6142,
+      "text": "93-2205718",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 6143,
+      "end": 6154,
+      "text": "545-00-3308",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 6155,
+      "end": 6174,
+      "text": "Tessa Marie Holcomb",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6175,
+      "end": 6193,
+      "text": "5521 NE Sandy Blvd",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 6194,
+      "end": 6201,
+      "text": "Unit 12",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 6202,
+      "end": 6220,
+      "text": "Portland, OR 97213",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 6221,
+      "end": 6229,
+      "text": "LDC-4471",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 7348,
+      "end": 7371,
+      "text": "www.irs.gov/Form1099NEC",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 7403,
+      "end": 7417,
+      "text": "400 SW 6th Ave",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 7418,
+      "end": 7428,
+      "text": "Suite 1200",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 7429,
+      "end": 7447,
+      "text": "Portland, OR 97204",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 7448,
+      "end": 7462,
+      "text": "(503) 555-0119",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 7463,
+      "end": 7473,
+      "text": "93-2205718",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 7474,
+      "end": 7485,
+      "text": "545-00-3308",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 7486,
+      "end": 7505,
+      "text": "Tessa Marie Holcomb",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 7506,
+      "end": 7524,
+      "text": "5521 NE Sandy Blvd",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 7525,
+      "end": 7532,
+      "text": "Unit 12",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 7533,
+      "end": 7551,
+      "text": "Portland, OR 97213",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 7552,
+      "end": 7560,
+      "text": "LDC-4471",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 11319,
+      "end": 11342,
+      "text": "www.irs.gov/Form1099NEC",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 11370,
+      "end": 11390,
+      "text": "www.irs.gov/FreeFile",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 12391,
+      "end": 12414,
+      "text": "www.irs.gov/Form1099NEC",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 12446,
+      "end": 12460,
+      "text": "400 SW 6th Ave",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 12461,
+      "end": 12471,
+      "text": "Suite 1200",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 12472,
+      "end": 12490,
+      "text": "Portland, OR 97204",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 12491,
+      "end": 12505,
+      "text": "(503) 555-0119",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 12506,
+      "end": 12516,
+      "text": "93-2205718",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 12517,
+      "end": 12528,
+      "text": "545-00-3308",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 12529,
+      "end": 12548,
+      "text": "Tessa Marie Holcomb",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 12549,
+      "end": 12567,
+      "text": "5521 NE Sandy Blvd",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 12568,
+      "end": 12575,
+      "text": "Unit 12",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 12576,
+      "end": 12594,
+      "text": "Portland, OR 97213",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 12595,
+      "end": 12603,
+      "text": "LDC-4471",
+      "label": "account_number",
+      "subject": "person"
+    }
+  ],
+  "form_4506t": [
+    {
+      "start": 282,
+      "end": 303,
+      "text": "www.irs.gov/form4506t",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 372,
+      "end": 383,
+      "text": "www.irs.gov",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 436,
+      "end": 450,
+      "text": "1-800-908-9946",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 2657,
+      "end": 2709,
+      "text": "www.irs.gov/businesses/get-a-business-tax-transcript",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 4540,
+      "end": 4554,
+      "text": "1-800-772-1213",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 6299,
+      "end": 6317,
+      "text": "Ibrahim S. Qureshi",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6318,
+      "end": 6329,
+      "text": "530-00-4417",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 6330,
+      "end": 6347,
+      "text": "Farida N. Qureshi",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6348,
+      "end": 6359,
+      "text": "530-00-1275",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 6360,
+      "end": 6378,
+      "text": "Ibrahim S. Qureshi",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 6380,
+      "end": 6416,
+      "text": "2210 Mockingbird Ln, Plano, TX 75074",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 6417,
+      "end": 6459,
+      "text": "8806 Legacy Dr, Apt 1420, Frisco, TX 75034",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 6460,
+      "end": 6470,
+      "text": "8842217705",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 6480,
+      "end": 6494,
+      "text": "(972) 555-0149",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 6495,
+      "end": 6505,
+      "text": "12 31 2023",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 6506,
+      "end": 6516,
+      "text": "12 31 2024",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 6720,
+      "end": 6741,
+      "text": "www.irs.gov/form4506t",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 7577,
+      "end": 7588,
+      "text": "www.irs.gov",
+      "label": "private_url",
+      "subject": "agency"
+    },
+    {
+      "start": 8944,
+      "end": 8958,
+      "text": "1-800-908-9946",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 15085,
+      "end": 15140,
+      "text": "1111 Constitution Ave. NW, IR-6526 Washington, DC 20224",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 15698,
+      "end": 15712,
+      "text": "Stop 6716 AUSC",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 15713,
+      "end": 15729,
+      "text": "Austin, TX 73301",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 15730,
+      "end": 15742,
+      "text": "855-587-9604",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 16021,
+      "end": 16034,
+      "text": "Stop 6705 S-2",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16035,
+      "end": 16056,
+      "text": "Kansas City, MO 64999",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16057,
+      "end": 16069,
+      "text": "855-821-0094",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 16264,
+      "end": 16277,
+      "text": "P.O. Box 9941",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16278,
+      "end": 16292,
+      "text": "Mail Stop 6734",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16293,
+      "end": 16308,
+      "text": "Ogden, UT 84409",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16309,
+      "end": 16321,
+      "text": "855-298-1145",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 16861,
+      "end": 16874,
+      "text": "P.O. Box 9941",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16875,
+      "end": 16889,
+      "text": "Mail Stop 6734",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16890,
+      "end": 16905,
+      "text": "Ogden, UT 84409",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 16906,
+      "end": 16918,
+      "text": "855-298-1145",
+      "label": "private_phone",
+      "subject": "agency"
+    },
+    {
+      "start": 17238,
+      "end": 17251,
+      "text": "Stop 6705 S-2",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 17252,
+      "end": 17273,
+      "text": "Kansas City, MO 64999",
+      "label": "private_address",
+      "subject": "agency"
+    },
+    {
+      "start": 17274,
+      "end": 17286,
+      "text": "855-821-0094",
+      "label": "private_phone",
+      "subject": "agency"
+    }
+  ],
+  "email_support_ticket": [
+    {
+      "start": 109,
+      "end": 120,
+      "text": "Rob Tessier",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 122,
+      "end": 146,
+      "text": "r.tessier@helioscloud.io",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 152,
+      "end": 164,
+      "text": "Amara Diallo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 166,
+      "end": 198,
+      "text": "amara.diallo@finchandsparrow.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 206,
+      "end": 222,
+      "text": "Thu, 12 Jun 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 241,
+      "end": 246,
+      "text": "Amara",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 642,
+      "end": 666,
+      "text": "sk-live-77e1b09c443a2f8d",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 817,
+      "end": 857,
+      "text": "eyJhbGciOiJSUzI1NiJ9.c3VwcG9ydC10aWNrZXQ",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 958,
+      "end": 988,
+      "text": "http://localhost:8080/callback",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1047,
+      "end": 1091,
+      "text": "https://status.helioscloud.io/incidents/4417",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1119,
+      "end": 1171,
+      "text": "https://docs.helioscloud.io/auth/rotation?utm=ticket",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1242,
+      "end": 1256,
+      "text": "(888) 555-0161",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1290,
+      "end": 1301,
+      "text": "Rob Tessier",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1343,
+      "end": 1359,
+      "text": "Wed, 11 Jun 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1370,
+      "end": 1382,
+      "text": "Amara Diallo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1568,
+      "end": 1592,
+      "text": "sk-live-77e1b09c443a2f8d",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 1675,
+      "end": 1721,
+      "text": "file:///Users/amara/Desktop/webhook_errors.log",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 1830,
+      "end": 1842,
+      "text": "Amara Diallo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1885,
+      "end": 1917,
+      "text": "amara.diallo@finchandsparrow.com",
+      "label": "private_email",
+      "subject": "person"
+    }
+  ],
+  "email_sales_intro": [
+    {
+      "start": 33,
+      "end": 52,
+      "text": "Marcus Aurelio Bell",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 54,
+      "end": 83,
+      "text": "mbell@northgate-analytics.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 89,
+      "end": 104,
+      "text": "Ingrid Sorensen",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 106,
+      "end": 141,
+      "text": "ingrid.sorensen@gulflinefreight.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 147,
+      "end": 157,
+      "text": "Tom Whelan",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 159,
+      "end": 191,
+      "text": "t.whelan@northgate-analytics.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 199,
+      "end": 215,
+      "text": "Mon, 09 Jun 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 285,
+      "end": 291,
+      "text": "Ingrid",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 358,
+      "end": 408,
+      "text": "https://northgate-analytics.com/decks/gulfline?v=3",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 514,
+      "end": 524,
+      "text": "Tom Whelan",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 565,
+      "end": 575,
+      "text": "06/17/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 730,
+      "end": 749,
+      "text": "Marcus Aurelio Bell",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 810,
+      "end": 825,
+      "text": "+1 617-555-0139",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 836,
+      "end": 848,
+      "text": "617-555-0102",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 849,
+      "end": 876,
+      "text": "www.northgate-analytics.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 879,
+      "end": 916,
+      "text": "https://linkedin.com/in/marcus-a-bell",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 920,
+      "end": 936,
+      "text": "Fri, 06 Jun 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 947,
+      "end": 962,
+      "text": "Ingrid Sorensen",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1222,
+      "end": 1237,
+      "text": "+1 713-555-0190",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1240,
+      "end": 1255,
+      "text": "Ingrid Sorensen",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1297,
+      "end": 1332,
+      "text": "ingrid.sorensen@gulflinefreight.com",
+      "label": "private_email",
+      "subject": "person"
+    }
+  ],
+  "email_conference": [
+    {
+      "start": 35,
+      "end": 49,
+      "text": "Lucia Ferrante",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 51,
+      "end": 79,
+      "text": "speakers@datahorizonconf.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 85,
+      "end": 100,
+      "text": "Dr. Naomi Okoye",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 102,
+      "end": 130,
+      "text": "n.okoye@bayside-quantlab.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 138,
+      "end": 154,
+      "text": "Tue, 22 Jul 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 218,
+      "end": 233,
+      "text": "Dr. Naomi Okoye",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 278,
+      "end": 296,
+      "text": "September 18, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 399,
+      "end": 448,
+      "text": "https://portal.datahorizonconf.com/speakers/login",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 487,
+      "end": 546,
+      "text": "Moscone Center West, 800 Howard St, San Francisco, CA 94103",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 554,
+      "end": 604,
+      "text": "Hotel Solano, 761 Post St, San Francisco, CA 94109",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 621,
+      "end": 632,
+      "text": "17-Sep-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 635,
+      "end": 646,
+      "text": "19-Sep-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 664,
+      "end": 674,
+      "text": "2025-08-29",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 921,
+      "end": 948,
+      "text": "av-team@datahorizonconf.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 1034,
+      "end": 1048,
+      "text": "(415) 555-0144",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1075,
+      "end": 1090,
+      "text": "+1 415-555-0123",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1215,
+      "end": 1229,
+      "text": "Lucia Ferrante",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1274,
+      "end": 1302,
+      "text": "speakers@datahorizonconf.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 1305,
+      "end": 1319,
+      "text": "(415) 555-0144",
+      "label": "private_phone",
+      "subject": "person"
+    }
+  ],
+  "email_it_onboarding": [
+    {
+      "start": 43,
+      "end": 55,
+      "text": "Deshawn Cole",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 57,
+      "end": 84,
+      "text": "helpdesk@merrittandlowe.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 90,
+      "end": 119,
+      "text": "fiona.gallagher.dub@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 124,
+      "end": 154,
+      "text": "f.gallagher@merrittandlowe.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 161,
+      "end": 177,
+      "text": "Wed, 02 Jul 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 248,
+      "end": 258,
+      "text": "07/07/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 263,
+      "end": 268,
+      "text": "Fiona",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 344,
+      "end": 354,
+      "text": "07/07/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 451,
+      "end": 481,
+      "text": "f.gallagher@merrittandlowe.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 509,
+      "end": 524,
+      "text": "Fiona Gallagher",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 566,
+      "end": 580,
+      "text": "Welc0me!ML2025",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 594,
+      "end": 604,
+      "text": "EMP-044821",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 814,
+      "end": 844,
+      "text": "https://vpn.merrittandlowe.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 902,
+      "end": 927,
+      "text": "http://localhost:3000/api",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1108,
+      "end": 1158,
+      "text": "https://wiki.merrittandlowe.com/onboarding/day-one",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1219,
+      "end": 1233,
+      "text": "(312) 555-0170",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1261,
+      "end": 1273,
+      "text": "Deshawn Cole",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ],
+  "lease_commercial": [
+    {
+      "start": 105,
+      "end": 132,
+      "text": "this 20th day of June, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 184,
+      "end": 202,
+      "text": "Harriet Vance-Osei",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 290,
+      "end": 300,
+      "text": "87-4410226",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 318,
+      "end": 333,
+      "text": "Dominic Farrell",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 460,
+      "end": 505,
+      "text": "Suite 410, 833 Congress Ave, Austin, TX 78701",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 722,
+      "end": 736,
+      "text": "August 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 748,
+      "end": 761,
+      "text": "July 31, 2028",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2114,
+      "end": 2128,
+      "text": "(512) 555-0195",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 3213,
+      "end": 3245,
+      "text": "P.O. Box 91277, Austin, TX 78709",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 3271,
+      "end": 3301,
+      "text": "hvance@vanceoseiproperties.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 3349,
+      "end": 3380,
+      "text": "dfarrell@copperkettlebrands.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 3743,
+      "end": 3761,
+      "text": "Harriet Vance-Osei",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 3768,
+      "end": 3778,
+      "text": "06/20/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 3815,
+      "end": 3830,
+      "text": "Dominic Farrell",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 3837,
+      "end": 3847,
+      "text": "06/20/2025",
+      "label": "private_date",
+      "subject": "person"
+    }
+  ],
+  "lease_month_to_month": [
+    {
+      "start": 93,
+      "end": 107,
+      "text": "Petra Lindgren",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 125,
+      "end": 136,
+      "text": "Curtis Boyd",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 168,
+      "end": 206,
+      "text": "1712 NE Failing St, Portland, OR 97212",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 239,
+      "end": 251,
+      "text": "July 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 700,
+      "end": 710,
+      "text": "7300415529",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1259,
+      "end": 1271,
+      "text": "971-555-0184",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1275,
+      "end": 1307,
+      "text": "petra.lindgren.rentals@yahoo.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1828,
+      "end": 1842,
+      "text": "Petra Lindgren",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1849,
+      "end": 1859,
+      "text": "06/24/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1868,
+      "end": 1879,
+      "text": "Curtis Boyd",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1886,
+      "end": 1896,
+      "text": "06/24/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1931,
+      "end": 1949,
+      "text": "1712 NE Failing St",
+      "label": "private_address",
+      "subject": "person"
+    }
+  ],
+  "lease_renewal": [
+    {
+      "start": 119,
+      "end": 131,
+      "text": "May 12, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 154,
+      "end": 169,
+      "text": "Rosalind Achebe",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 187,
+      "end": 202,
+      "text": "Jonathan Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 234,
+      "end": 278,
+      "text": "2914 Bluebonnet Ln, Unit 4, Austin, TX 78704",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 416,
+      "end": 428,
+      "text": "June 1, 2026",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 440,
+      "end": 452,
+      "text": "May 31, 2027",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1236,
+      "end": 1264,
+      "text": "rachebe.properties@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1268,
+      "end": 1278,
+      "text": "04/01/2026",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1411,
+      "end": 1426,
+      "text": "Rosalind Achebe",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1433,
+      "end": 1443,
+      "text": "03/09/2026",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1452,
+      "end": 1467,
+      "text": "Jonathan Pierce",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1474,
+      "end": 1484,
+      "text": "03/09/2026",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1524,
+      "end": 1550,
+      "text": "2914 Bluebonnet Ln, Unit 4",
+      "label": "private_address",
+      "subject": "person"
+    }
+  ],
+  "lease_sublease": [
+    {
+      "start": 83,
+      "end": 104,
+      "text": "Anthony Okonkwo-Reyes",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 140,
+      "end": 182,
+      "text": "Apt 8C, 405 W 118th St, New York, NY 10026",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 188,
+      "end": 201,
+      "text": "Grace Muthoni",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 336,
+      "end": 349,
+      "text": "June 15, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 358,
+      "end": 373,
+      "text": "August 15, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1334,
+      "end": 1360,
+      "text": "aokonkworeyes@columbia.edu",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1386,
+      "end": 1409,
+      "text": "grace.muthoni@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1411,
+      "end": 1425,
+      "text": "(646) 555-0122",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1474,
+      "end": 1486,
+      "text": "Wendell Park",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1534,
+      "end": 1555,
+      "text": "Anthony Okonkwo-Reyes",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1562,
+      "end": 1572,
+      "text": "05/30/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1584,
+      "end": 1597,
+      "text": "Grace Muthoni",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1604,
+      "end": 1614,
+      "text": "05/30/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1630,
+      "end": 1642,
+      "text": "Wendell Park",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1649,
+      "end": 1659,
+      "text": "05/30/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1688,
+      "end": 1710,
+      "text": "Apt 8C, 405 W 118th St",
+      "label": "private_address",
+      "subject": "person"
+    }
+  ],
+  "cc_statement": [
+    {
+      "start": 45,
+      "end": 59,
+      "text": "(800) 555-0177",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 78,
+      "end": 92,
+      "text": "(800) 555-0113",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 93,
+      "end": 111,
+      "text": "www.summitcard.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 127,
+      "end": 149,
+      "text": "Yolanda Marsh-Whitaker",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 150,
+      "end": 193,
+      "text": "2205 S Lamar Blvd, Apt 214 Austin, TX 78704",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 228,
+      "end": 236,
+      "text": "****4471",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 255,
+      "end": 266,
+      "text": "May 8, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 269,
+      "end": 281,
+      "text": "June 7, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 300,
+      "end": 310,
+      "text": "07/02/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 493,
+      "end": 498,
+      "text": "05/09",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 526,
+      "end": 531,
+      "text": "05/11",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 566,
+      "end": 571,
+      "text": "05/12",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 584,
+      "end": 596,
+      "text": "866-555-0172",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 606,
+      "end": 611,
+      "text": "05/14",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 621,
+      "end": 634,
+      "text": "5262214750448",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 652,
+      "end": 657,
+      "text": "05/15",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 672,
+      "end": 684,
+      "text": "Kelvin Marsh",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 695,
+      "end": 700,
+      "text": "05/18",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 736,
+      "end": 741,
+      "text": "05/21",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 778,
+      "end": 783,
+      "text": "05/24",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 820,
+      "end": 825,
+      "text": "05/27",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 863,
+      "end": 868,
+      "text": "05/30",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 903,
+      "end": 908,
+      "text": "06/02",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 921,
+      "end": 933,
+      "text": "877-555-0161",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 943,
+      "end": 948,
+      "text": "06/05",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1051,
+      "end": 1061,
+      "text": "07/02/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1318,
+      "end": 1358,
+      "text": "https://www.summitcard.com/pay?acct=4471",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 1372,
+      "end": 1386,
+      "text": "(800) 555-0177",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1565,
+      "end": 1579,
+      "text": "(800) 555-0113",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1667,
+      "end": 1703,
+      "text": "P.O. Box 6001, Sioux Falls, SD 57117",
+      "label": "private_address",
+      "subject": "org"
+    }
+  ],
+  "brokerage_statement": [
+    {
+      "start": 65,
+      "end": 75,
+      "text": "Sandra Kim",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 76,
+      "end": 90,
+      "text": "(603) 555-0146",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 93,
+      "end": 125,
+      "text": "sandra.kim@granitepeakwealth.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 126,
+      "end": 151,
+      "text": "www.granitepeakwealth.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 173,
+      "end": 195,
+      "text": "Edwin Castellanos-Ruiz",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 217,
+      "end": 256,
+      "text": "48 Beacon Hill Rd Nashua, NH 03063-1877",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 289,
+      "end": 299,
+      "text": "Z40-887215",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 318,
+      "end": 331,
+      "text": "April 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 334,
+      "end": 347,
+      "text": "June 30, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 818,
+      "end": 823,
+      "text": "04/15",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 856,
+      "end": 864,
+      "text": "****8834",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 874,
+      "end": 879,
+      "text": "05/06",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 916,
+      "end": 921,
+      "text": "05/15",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 954,
+      "end": 962,
+      "text": "****8834",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 972,
+      "end": 977,
+      "text": "06/16",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1010,
+      "end": 1018,
+      "text": "****8834",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1028,
+      "end": 1033,
+      "text": "06/27",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1067,
+      "end": 1072,
+      "text": "06/27",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1379,
+      "end": 1389,
+      "text": "Sandra Kim",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1394,
+      "end": 1408,
+      "text": "(603) 555-0146",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1412,
+      "end": 1444,
+      "text": "sandra.kim@granitepeakwealth.com",
+      "label": "private_email",
+      "subject": "person"
+    }
+  ],
+  "savings_statement": [
+    {
+      "start": 57,
+      "end": 71,
+      "text": "(612) 555-0158",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 72,
+      "end": 96,
+      "text": "www.northlandsavings.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 112,
+      "end": 128,
+      "text": "Beverly Onwudiwe",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 129,
+      "end": 170,
+      "text": "1509 Garfield Ave S Minneapolis, MN 55403",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 196,
+      "end": 204,
+      "text": "****2210",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 221,
+      "end": 230,
+      "text": "091033170",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 239,
+      "end": 251,
+      "text": "June 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 254,
+      "end": 267,
+      "text": "June 30, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 436,
+      "end": 441,
+      "text": "06/02",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 485,
+      "end": 490,
+      "text": "06/06",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 543,
+      "end": 548,
+      "text": "06/16",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 600,
+      "end": 605,
+      "text": "06/20",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 658,
+      "end": 663,
+      "text": "06/30",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 903,
+      "end": 917,
+      "text": "(612) 555-0158",
+      "label": "private_phone",
+      "subject": "org"
+    }
+  ],
+  "credit_union_statement": [
+    {
+      "start": 73,
+      "end": 87,
+      "text": "(303) 555-0119",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 104,
+      "end": 138,
+      "text": "https://www.flatironsfcu.org/login",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 146,
+      "end": 163,
+      "text": "Marcus T. Delgado",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 177,
+      "end": 190,
+      "text": "Sofia Delgado",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 191,
+      "end": 223,
+      "text": "77 Pinewood Ct Boulder, CO 80302",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 248,
+      "end": 256,
+      "text": "00448821",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 281,
+      "end": 289,
+      "text": "****0075",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 305,
+      "end": 313,
+      "text": "****0031",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 322,
+      "end": 333,
+      "text": "May 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 336,
+      "end": 348,
+      "text": "May 31, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 552,
+      "end": 557,
+      "text": "05/01",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 618,
+      "end": 623,
+      "text": "05/02",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 677,
+      "end": 682,
+      "text": "05/06",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 692,
+      "end": 706,
+      "text": "Hannah Delgado",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 709,
+      "end": 736,
+      "text": "hannah.delgado@colorado.edu",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 754,
+      "end": 759,
+      "text": "05/10",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 819,
+      "end": 824,
+      "text": "05/13",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 851,
+      "end": 859,
+      "text": "****0031",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 877,
+      "end": 882,
+      "text": "05/16",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 936,
+      "end": 941,
+      "text": "05/19",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 997,
+      "end": 1002,
+      "text": "05/23",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1059,
+      "end": 1064,
+      "text": "05/28",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1090,
+      "end": 1100,
+      "text": "0044882-L2",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1118,
+      "end": 1123,
+      "text": "05/31",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1215,
+      "end": 1220,
+      "text": "05/13",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1264,
+      "end": 1269,
+      "text": "05/31",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1506,
+      "end": 1520,
+      "text": "(303) 555-0119",
+      "label": "private_phone",
+      "subject": "org"
+    }
+  ],
+  "mortgage_statement": [
+    {
+      "start": 70,
+      "end": 84,
+      "text": "(855) 555-0142",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 104,
+      "end": 143,
+      "text": "https://myloan.harborpointservicing.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 153,
+      "end": 175,
+      "text": "Priyanka Chandrasekhar",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 176,
+      "end": 195,
+      "text": "Rohan Chandrasekhar",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 196,
+      "end": 238,
+      "text": "6119 Juniper Hollow Dr Katy, TX 77494-3308",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 269,
+      "end": 281,
+      "text": "0092-7714836",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 292,
+      "end": 330,
+      "text": "6119 Juniper Hollow Dr, Katy, TX 77494",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 347,
+      "end": 360,
+      "text": "June 12, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 452,
+      "end": 462,
+      "text": "07/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 663,
+      "end": 668,
+      "text": "06/01",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 706,
+      "end": 711,
+      "text": "06/05",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 783,
+      "end": 793,
+      "text": "07/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 926,
+      "end": 965,
+      "text": "https://myloan.harborpointservicing.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1311,
+      "end": 1325,
+      "text": "(855) 555-0142",
+      "label": "private_phone",
+      "subject": "org"
+    }
+  ],
+  "paystub": [
+    {
+      "start": 41,
+      "end": 80,
+      "text": "4400 Innovation Way, Columbus, OH 43219",
+      "label": "private_address",
+      "subject": "org"
+    },
+    {
+      "start": 93,
+      "end": 103,
+      "text": "06/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 106,
+      "end": 116,
+      "text": "06/15/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 127,
+      "end": 137,
+      "text": "06/20/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 182,
+      "end": 200,
+      "text": "Terrence J. Okafor",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 201,
+      "end": 243,
+      "text": "930 Sycamore Run, Apt 6 Columbus, OH 43215",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 265,
+      "end": 273,
+      "text": "RB-30177",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 279,
+      "end": 290,
+      "text": "XXX-XX-6741",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 877,
+      "end": 885,
+      "text": "****3306",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1026,
+      "end": 1049,
+      "text": "payroll@ridgewaybio.com",
+      "label": "private_email",
+      "subject": "org"
+    }
+  ],
+  "invoice_plumbing": [
+    {
+      "start": 24,
+      "end": 54,
+      "text": "dispatch@bluecreekplumbing.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 57,
+      "end": 71,
+      "text": "(512) 555-0177",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 72,
+      "end": 97,
+      "text": "www.bluecreekplumbing.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 129,
+      "end": 136,
+      "text": "M-40221",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 165,
+      "end": 175,
+      "text": "06/11/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 181,
+      "end": 191,
+      "text": "06/25/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 233,
+      "end": 248,
+      "text": "Gloria Whitcomb",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 249,
+      "end": 288,
+      "text": "212 Meadowlark Ln, Round Rock, TX 78664",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 331,
+      "end": 345,
+      "text": "Ray Delgadillo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 358,
+      "end": 370,
+      "text": "WO-2025-1188",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 796,
+      "end": 810,
+      "text": "(512) 555-0177",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 900,
+      "end": 930,
+      "text": "dispatch@bluecreekplumbing.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 1185,
+      "end": 1195,
+      "text": "06/25/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1344,
+      "end": 1351,
+      "text": "M-40221",
+      "label": "account_number",
+      "subject": "person"
+    }
+  ],
+  "invoice_legal": [
+    {
+      "start": 33,
+      "end": 56,
+      "text": "billing@chuandgrant.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 59,
+      "end": 73,
+      "text": "(206) 555-0129",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 126,
+      "end": 138,
+      "text": "July 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 151,
+      "end": 160,
+      "text": "2025-0441",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 211,
+      "end": 225,
+      "text": "Douglas Reiner",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 226,
+      "end": 268,
+      "text": "1400 5th Ave, Suite 2200 Seattle, WA 98101",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 409,
+      "end": 419,
+      "text": "06/03/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 420,
+      "end": 426,
+      "text": "A. Chu",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 486,
+      "end": 496,
+      "text": "06/10/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 497,
+      "end": 507,
+      "text": "B. Feldman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 575,
+      "end": 585,
+      "text": "06/17/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 586,
+      "end": 592,
+      "text": "A. Chu",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 658,
+      "end": 668,
+      "text": "06/17/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 669,
+      "end": 679,
+      "text": "B. Feldman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 728,
+      "end": 738,
+      "text": "06/24/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 739,
+      "end": 745,
+      "text": "A. Chu",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 840,
+      "end": 850,
+      "text": "06/10/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 903,
+      "end": 913,
+      "text": "06/24/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1108,
+      "end": 1121,
+      "text": "Alexandra Chu",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1141,
+      "end": 1152,
+      "text": "Ben Feldman",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1236,
+      "end": 1245,
+      "text": "125008819",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1255,
+      "end": 1265,
+      "text": "4400921166",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1312,
+      "end": 1321,
+      "text": "2025-0441",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1567,
+      "end": 1590,
+      "text": "billing@chuandgrant.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 1594,
+      "end": 1608,
+      "text": "(206) 555-0129",
+      "label": "private_phone",
+      "subject": "org"
+    }
+  ],
+  "invoice_catering": [
+    {
+      "start": 38,
+      "end": 66,
+      "text": "orders@lavendermoontable.com",
+      "label": "private_email",
+      "subject": "org"
+    },
+    {
+      "start": 69,
+      "end": 81,
+      "text": "919.555.0134",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 82,
+      "end": 115,
+      "text": "https://www.lavendermoontable.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 147,
+      "end": 157,
+      "text": "2025-07-14",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 170,
+      "end": 184,
+      "text": "August 9, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 214,
+      "end": 235,
+      "text": "Whitney Alvarez-Boone",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 263,
+      "end": 293,
+      "text": "walvarezboone@stellarevents.co",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 307,
+      "end": 351,
+      "text": "The Foundry, 620 Foster St, Durham, NC 27701",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 861,
+      "end": 871,
+      "text": "05/20/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 996,
+      "end": 1015,
+      "text": "5500 0000 0000 0004",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1021,
+      "end": 1026,
+      "text": "11/26",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1112,
+      "end": 1125,
+      "text": "Marcel Dubois",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1127,
+      "end": 1155,
+      "text": "orders@lavendermoontable.com",
+      "label": "private_email",
+      "subject": "org"
+    }
+  ],
+  "invoice_freelance_dev": [
+    {
+      "start": 27,
+      "end": 42,
+      "text": "Santiago Ibarra",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 43,
+      "end": 59,
+      "text": "santi@ibarra.dev",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 62,
+      "end": 77,
+      "text": "+1 512-555-0148",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 78,
+      "end": 96,
+      "text": "https://ibarra.dev",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 102,
+      "end": 112,
+      "text": "38-4419027",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 137,
+      "end": 148,
+      "text": "30-Jun-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 154,
+      "end": 165,
+      "text": "14-Jul-2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 212,
+      "end": 224,
+      "text": "Rebecca Hoyt",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 241,
+      "end": 262,
+      "text": "rhoyt@parcelpilot.app",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 313,
+      "end": 356,
+      "text": "https://github.com/parcelpilot/dispatch-api",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 650,
+      "end": 698,
+      "text": "https://staging.parcelpilot.app/releases/2025-06",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 917,
+      "end": 927,
+      "text": "8830114427",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1006,
+      "end": 1022,
+      "text": "santi@ibarra.dev",
+      "label": "private_email",
+      "subject": "person"
+    }
+  ],
+  "invoice_medical_billing": [
+    {
+      "start": 69,
+      "end": 83,
+      "text": "(541) 555-0186",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 110,
+      "end": 123,
+      "text": "June 30, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 133,
+      "end": 143,
+      "text": "PT-0448817",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 157,
+      "end": 170,
+      "text": "July 30, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 192,
+      "end": 205,
+      "text": "Harold Okonjo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 206,
+      "end": 245,
+      "text": "515 W 11th Ave, Unit 3 Eugene, OR 97401",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 285,
+      "end": 297,
+      "text": "25-114-88201",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 316,
+      "end": 326,
+      "text": "06/21/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 383,
+      "end": 393,
+      "text": "05/28/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 456,
+      "end": 466,
+      "text": "05/28/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 522,
+      "end": 532,
+      "text": "06/04/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 758,
+      "end": 793,
+      "text": "https://pay.willamettesportsmed.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 836,
+      "end": 850,
+      "text": "(541) 555-0186",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1020,
+      "end": 1034,
+      "text": "(541) 555-0186",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1057,
+      "end": 1067,
+      "text": "PT-0448817",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1144,
+      "end": 1154,
+      "text": "06/21/2025",
+      "label": "private_date",
+      "subject": "person"
+    }
+  ],
+  "utility_bill": [
+    {
+      "start": 64,
+      "end": 78,
+      "text": "1-800-555-0147",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 94,
+      "end": 108,
+      "text": "1-800-555-0190",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 109,
+      "end": 138,
+      "text": "www.crescentcityutilities.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 164,
+      "end": 176,
+      "text": "6633-118-442",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 193,
+      "end": 206,
+      "text": "June 18, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 223,
+      "end": 233,
+      "text": "05/16/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 236,
+      "end": 246,
+      "text": "06/16/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 257,
+      "end": 267,
+      "text": "07/09/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 281,
+      "end": 295,
+      "text": "Renee Baptiste",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 296,
+      "end": 337,
+      "text": "2240 Esplanade Ave, New Orleans, LA 70119",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 360,
+      "end": 370,
+      "text": "07/09/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 413,
+      "end": 423,
+      "text": "05/30/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 611,
+      "end": 619,
+      "text": "E-884213",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 709,
+      "end": 716,
+      "text": "W-30126",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 939,
+      "end": 980,
+      "text": "https://www.crescentcityutilities.com/pay",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1025,
+      "end": 1039,
+      "text": "1-800-555-0147",
+      "label": "private_phone",
+      "subject": "org"
+    },
+    {
+      "start": 1235,
+      "end": 1272,
+      "text": "P.O. Box 60340, New Orleans, LA 70160",
+      "label": "private_address",
+      "subject": "org"
+    }
+  ],
+  "nda_mutual": [
+    {
+      "start": 99,
+      "end": 126,
+      "text": "this 9th day of April, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 175,
+      "end": 225,
+      "text": "2200 Peachtree Rd NW, Suite 900, Atlanta, GA 30309",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 242,
+      "end": 265,
+      "text": "Vivienne Okorie-Hammond",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 338,
+      "end": 388,
+      "text": "1400 Market St, Suite 2200, Philadelphia, PA 19102",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 405,
+      "end": 418,
+      "text": "Stefan Brandt",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2675,
+      "end": 2710,
+      "text": "v.okoriehammond@meridianbiolabs.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2736,
+      "end": 2764,
+      "text": "s.brandt@wexleranalytics.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2868,
+      "end": 2891,
+      "text": "Vivienne Okorie-Hammond",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2898,
+      "end": 2908,
+      "text": "04/09/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2931,
+      "end": 2944,
+      "text": "Stefan Brandt",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2951,
+      "end": 2961,
+      "text": "04/09/2025",
+      "label": "private_date",
+      "subject": "person"
+    }
+  ],
+  "employment_offer": [
+    {
+      "start": 21,
+      "end": 61,
+      "text": "801 Marquette Ave, Minneapolis, MN 55402",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 62,
+      "end": 75,
+      "text": "June 20, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 76,
+      "end": 87,
+      "text": "Omar Haddad",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 88,
+      "end": 128,
+      "text": "3316 Girard Ave S, Minneapolis, MN 55408",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 134,
+      "end": 138,
+      "text": "Omar",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 256,
+      "end": 271,
+      "text": "Dr. Wei-Lin Tan",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 435,
+      "end": 448,
+      "text": "July 28, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1250,
+      "end": 1284,
+      "text": "https://onboarding.thistledata.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1288,
+      "end": 1298,
+      "text": "06/27/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1443,
+      "end": 1472,
+      "text": "jbrooksokafor@thistledata.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1476,
+      "end": 1490,
+      "text": "(612) 555-0148",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1563,
+      "end": 1584,
+      "text": "Janelle Brooks-Okafor",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1703,
+      "end": 1714,
+      "text": "Omar Haddad",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ],
+  "vehicle_purchase": [
+    {
+      "start": 90,
+      "end": 118,
+      "text": "this 2nd day of August, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 128,
+      "end": 141,
+      "text": "Randall Petit",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 145,
+      "end": 179,
+      "text": "18 Cypress Bend, Slidell, LA 70458",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 195,
+      "end": 209,
+      "text": "Aisha Nakagawa",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 213,
+      "end": 250,
+      "text": "742 Marigny St, New Orleans, LA 70117",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 390,
+      "end": 407,
+      "text": "1HGCM82633A004352",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 1462,
+      "end": 1475,
+      "text": "Randall Petit",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1480,
+      "end": 1494,
+      "text": "Aisha Nakagawa",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1598,
+      "end": 1612,
+      "text": "(985) 555-0171",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1623,
+      "end": 1648,
+      "text": "aisha.nakagawa@tulane.edu",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1669,
+      "end": 1682,
+      "text": "Randall Petit",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1689,
+      "end": 1699,
+      "text": "08/02/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1707,
+      "end": 1721,
+      "text": "Aisha Nakagawa",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1728,
+      "end": 1738,
+      "text": "08/02/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1770,
+      "end": 1798,
+      "text": "this 2nd day of August, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1815,
+      "end": 1830,
+      "text": "Claude Fontenot",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1880,
+      "end": 1885,
+      "text": "66104",
+      "label": "account_number",
+      "subject": "person"
+    }
+  ],
+  "promissory_note": [
+    {
+      "start": 70,
+      "end": 81,
+      "text": "May 1, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 102,
+      "end": 120,
+      "text": "Tessa Okafor-Grant",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 147,
+      "end": 190,
+      "text": "905 Locust St, Apt 12, Des Moines, IA 50309",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 224,
+      "end": 236,
+      "text": "Miriam Grant",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 252,
+      "end": 297,
+      "text": "44 Prairie Rose Ln, West Des Moines, IA 50266",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 530,
+      "end": 539,
+      "text": "482009366",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 623,
+      "end": 633,
+      "text": "06/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 701,
+      "end": 711,
+      "text": "05/01/2028",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1555,
+      "end": 1573,
+      "text": "Tessa Okafor-Grant",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1580,
+      "end": 1590,
+      "text": "05/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1599,
+      "end": 1611,
+      "text": "Miriam Grant",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1618,
+      "end": 1628,
+      "text": "05/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1743,
+      "end": 1753,
+      "text": "06/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1782,
+      "end": 1792,
+      "text": "07/01/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1853,
+      "end": 1858,
+      "text": "Grant",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1861,
+      "end": 1873,
+      "text": "Okafor-Grant",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ],
+  "settlement_agreement": [
+    {
+      "start": 119,
+      "end": 146,
+      "text": "this 27th day of June, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 156,
+      "end": 172,
+      "text": "Bruno Castellano",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 243,
+      "end": 256,
+      "text": "Dana Whitlock",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 476,
+      "end": 486,
+      "text": "07/11/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 555,
+      "end": 564,
+      "text": "121044738",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 574,
+      "end": 584,
+      "text": "3302214485",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 597,
+      "end": 607,
+      "text": "Castellano",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1727,
+      "end": 1740,
+      "text": "Dana Whitlock",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2078,
+      "end": 2094,
+      "text": "Bruno Castellano",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2101,
+      "end": 2111,
+      "text": "06/27/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2138,
+      "end": 2151,
+      "text": "Dana Whitlock",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2158,
+      "end": 2168,
+      "text": "06/27/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 2190,
+      "end": 2210,
+      "text": "Erica Yamamoto-Reyes",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 2234,
+      "end": 2258,
+      "text": "eyr@yamamotoreyeslaw.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 2260,
+      "end": 2274,
+      "text": "(415) 555-0132",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 2324,
+      "end": 2334,
+      "text": "Castellano",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ],
+  "dental_intake": [
+    {
+      "start": 48,
+      "end": 100,
+      "text": "810 SE Hawthorne Blvd, Suite 120, Portland, OR 97214",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 106,
+      "end": 120,
+      "text": "(503) 555-0129",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 128,
+      "end": 142,
+      "text": "(503) 555-0130",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 143,
+      "end": 166,
+      "text": "www.hawthornedental.com",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 180,
+      "end": 190,
+      "text": "07/08/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 210,
+      "end": 230,
+      "text": "Leonard Baptiste-Ngo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 246,
+      "end": 256,
+      "text": "11/03/1978",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 278,
+      "end": 289,
+      "text": "541-00-2276",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 297,
+      "end": 311,
+      "text": "(971) 555-0116",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 319,
+      "end": 342,
+      "text": "l.baptistengo@proton.me",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 352,
+      "end": 371,
+      "text": "2833 SE Division St",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 372,
+      "end": 390,
+      "text": "Portland, OR 97202",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 451,
+      "end": 463,
+      "text": "DEN-88410275",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 473,
+      "end": 481,
+      "text": "GRP-6604",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 494,
+      "end": 514,
+      "text": "Leonard Baptiste-Ngo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 555,
+      "end": 572,
+      "text": "Dr. Sofia Andrade",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 609,
+      "end": 625,
+      "text": "January 12, 2024",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1113,
+      "end": 1123,
+      "text": "Celine Ngo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1140,
+      "end": 1154,
+      "text": "(971) 555-0142",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1380,
+      "end": 1400,
+      "text": "Leonard Baptiste-Ngo",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1407,
+      "end": 1417,
+      "text": "07/08/2025",
+      "label": "private_date",
+      "subject": "person"
+    }
+  ],
+  "pediatric_intake": [
+    {
+      "start": 46,
+      "end": 88,
+      "text": "55 Court St, 3rd Floor, Brooklyn, NY 11201",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 94,
+      "end": 108,
+      "text": "(718) 555-0102",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 128,
+      "end": 142,
+      "text": "August 4, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 155,
+      "end": 171,
+      "text": "Amelia Rojas-Kim",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 187,
+      "end": 197,
+      "text": "02/14/2019",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 256,
+      "end": 279,
+      "text": "330 Clinton Ave, Apt 9F",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 280,
+      "end": 298,
+      "text": "Brooklyn, NY 11205",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 329,
+      "end": 342,
+      "text": "Daniela Rojas",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 385,
+      "end": 399,
+      "text": "(917) 555-0184",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 402,
+      "end": 427,
+      "text": "daniela.rojas.k@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 438,
+      "end": 450,
+      "text": "Jonathan Kim",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 467,
+      "end": 481,
+      "text": "(917) 555-0139",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 594,
+      "end": 608,
+      "text": "NYH-4471120033",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 624,
+      "end": 637,
+      "text": "Daniela Rojas",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 673,
+      "end": 694,
+      "text": "Dr. Priya Raghunathan",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1193,
+      "end": 1206,
+      "text": "Daniela Rojas",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1213,
+      "end": 1223,
+      "text": "08/04/2025",
+      "label": "private_date",
+      "subject": "person"
+    }
+  ],
+  "pt_referral": [
+    {
+      "start": 60,
+      "end": 102,
+      "text": "1420 5th Ave, Suite 300, Seattle, WA 98101",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 108,
+      "end": 122,
+      "text": "(206) 555-0173",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 130,
+      "end": 144,
+      "text": "(206) 555-0174",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 159,
+      "end": 180,
+      "text": "Gustavo Ferreira-Lind",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 196,
+      "end": 206,
+      "text": "09/30/1991",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 214,
+      "end": 226,
+      "text": "206.555.0147",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 234,
+      "end": 259,
+      "text": "gferreiralind@outlook.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 289,
+      "end": 305,
+      "text": "Dr. Hannah Weiss",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 337,
+      "end": 347,
+      "text": "1447382209",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 364,
+      "end": 378,
+      "text": "(206) 555-0110",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 440,
+      "end": 450,
+      "text": "05/19/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 471,
+      "end": 481,
+      "text": "06/02/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 533,
+      "end": 547,
+      "text": "WC-2025-081142",
+      "label": "account_number",
+      "subject": "person"
+    }
+  ],
+  "telehealth_registration": [
+    {
+      "start": 56,
+      "end": 70,
+      "text": "(888) 555-0155",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 71,
+      "end": 99,
+      "text": "https://visit.lumenhealth.tv",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 114,
+      "end": 128,
+      "text": "Nadine Aliyeva",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 144,
+      "end": 154,
+      "text": "04/07/1994",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 179,
+      "end": 194,
+      "text": "+1 646-555-0117",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 202,
+      "end": 227,
+      "text": "nadine.aliyeva@icloud.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 242,
+      "end": 287,
+      "text": "88 Greenpoint Ave, Apt 4R, Brooklyn, NY 11222",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 308,
+      "end": 366,
+      "text": "Greenpoint Pharmacy, 710 Manhattan Ave, Brooklyn, NY 11222",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 395,
+      "end": 405,
+      "text": "07/15/2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 429,
+      "end": 443,
+      "text": "LH-2025-118834",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 454,
+      "end": 482,
+      "text": "https://visit.lumenhealth.tv",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 608,
+      "end": 618,
+      "text": "PIN: 60412",
+      "label": "secret",
+      "subject": "person"
+    },
+    {
+      "start": 1470,
+      "end": 1484,
+      "text": "(888) 555-0155",
+      "label": "private_phone",
+      "subject": "person"
+    }
+  ],
+  "resume_marketing": [
+    {
+      "start": 0,
+      "end": 19,
+      "text": "CAMILLE VU-THOMPSON",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 42,
+      "end": 70,
+      "text": "camille.vuthompson@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 73,
+      "end": 85,
+      "text": "312-555-0158",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 100,
+      "end": 141,
+      "text": "https://linkedin.com/in/camillevuthompson",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 155,
+      "end": 173,
+      "text": "www.camillevt.work",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 446,
+      "end": 478,
+      "text": "444 W Lake St, Chicago, IL 60606",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 1427,
+      "end": 1448,
+      "text": "Sasha Lindqvist-Moore",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1482,
+      "end": 1505,
+      "text": "slmoore@beaconbrands.co",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 1508,
+      "end": 1522,
+      "text": "(312) 555-0171",
+      "label": "private_phone",
+      "subject": "person"
+    }
+  ],
+  "resume_nurse": [
+    {
+      "start": 0,
+      "end": 20,
+      "text": "DIANE OKONKWO-PHELPS",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 68,
+      "end": 95,
+      "text": "d.okonkwophelps@outlook.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 98,
+      "end": 112,
+      "text": "(614) 555-0129",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 171,
+      "end": 180,
+      "text": "RN-448812",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 217,
+      "end": 229,
+      "text": "CCRN-0091447",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 926,
+      "end": 941,
+      "text": "Dr. Emeka Nwosu",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 994,
+      "end": 1016,
+      "text": "614-555-0180 ext. 4410",
+      "label": "private_phone",
+      "subject": "person"
+    }
+  ],
+  "academic_cv": [
+    {
+      "start": 0,
+      "end": 23,
+      "text": "Dr. Ilya Fedorov-Nakade",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 108,
+      "end": 156,
+      "text": "1111 Engineering Dr, ECOT 717, Boulder, CO 80309",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 157,
+      "end": 185,
+      "text": "i.fedorovnakade@colorado.edu",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 188,
+      "end": 203,
+      "text": "+1 303-555-0164",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 204,
+      "end": 242,
+      "text": "https://home.cs.colorado.edu/~ifedorov",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 252,
+      "end": 271,
+      "text": "0000-0002-1825-0097",
+      "label": "account_number",
+      "subject": "person"
+    },
+    {
+      "start": 288,
+      "end": 337,
+      "text": "https://scholar.google.com/citations?user=xK4mQ8r",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 606,
+      "end": 610,
+      "text": "2018",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 678,
+      "end": 682,
+      "text": "2018",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 886,
+      "end": 925,
+      "text": "https://doi.org/10.1145/3576915.3616582",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1011,
+      "end": 1053,
+      "text": "https://doi.org/10.1109/SP54263.2024.00112",
+      "label": "private_url",
+      "subject": "org"
+    },
+    {
+      "start": 1374,
+      "end": 1391,
+      "text": "November 14, 2024",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 1736,
+      "end": 1753,
+      "text": "I. Fedorov-Nakade",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ],
+  "cover_letter": [
+    {
+      "start": 0,
+      "end": 19,
+      "text": "Malik Torres-Nguyen",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 20,
+      "end": 40,
+      "text": "1544 Vine St, Apt 22",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 42,
+      "end": 58,
+      "text": "Denver, CO 80206",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 59,
+      "end": 87,
+      "text": "malik.torresnguyen@gmail.com",
+      "label": "private_email",
+      "subject": "person"
+    },
+    {
+      "start": 90,
+      "end": 105,
+      "text": "+1 720-555-0195",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 106,
+      "end": 138,
+      "text": "https://github.com/mtorresnguyen",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 141,
+      "end": 158,
+      "text": "https://mtn.codes",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 159,
+      "end": 171,
+      "text": "July 3, 2025",
+      "label": "private_date",
+      "subject": "person"
+    },
+    {
+      "start": 172,
+      "end": 186,
+      "text": "Rachel Adeyemi",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 228,
+      "end": 264,
+      "text": "5601 Arapahoe Ave, Boulder, CO 80303",
+      "label": "private_address",
+      "subject": "person"
+    },
+    {
+      "start": 270,
+      "end": 276,
+      "text": "Rachel",
+      "label": "private_person",
+      "subject": "person"
+    },
+    {
+      "start": 1221,
+      "end": 1253,
+      "text": "https://github.com/mtorresnguyen",
+      "label": "private_url",
+      "subject": "person"
+    },
+    {
+      "start": 1375,
+      "end": 1390,
+      "text": "+1 720-555-0195",
+      "label": "private_phone",
+      "subject": "person"
+    },
+    {
+      "start": 1426,
+      "end": 1445,
+      "text": "Malik Torres-Nguyen",
+      "label": "private_person",
+      "subject": "person"
+    }
+  ]
+}

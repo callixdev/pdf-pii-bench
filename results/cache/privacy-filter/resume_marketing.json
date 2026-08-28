@@ -1,0 +1,47 @@
+{
+  "id": "resume_marketing",
+  "spans": [
+    {
+      "start": 0,
+      "end": 19,
+      "text": "CAMILLE VU-THOMPSON",
+      "label": "private_person"
+    },
+    {
+      "start": 42,
+      "end": 70,
+      "text": "camille.vuthompson@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 73,
+      "end": 85,
+      "text": "312-555-0158",
+      "label": "private_phone"
+    },
+    {
+      "start": 100,
+      "end": 141,
+      "text": "https://linkedin.com/in/camillevuthompson",
+      "label": "private_url"
+    },
+    {
+      "start": 1427,
+      "end": 1448,
+      "text": "Sasha Lindqvist-Moore",
+      "label": "private_person"
+    },
+    {
+      "start": 1482,
+      "end": 1505,
+      "text": "slmoore@beaconbrands.co",
+      "label": "private_email"
+    },
+    {
+      "start": 1508,
+      "end": 1522,
+      "text": "(312) 555-0171",
+      "label": "private_phone"
+    }
+  ]
+}

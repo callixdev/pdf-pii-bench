@@ -1,0 +1,89 @@
+{
+  "id": "dental_intake",
+  "spans": [
+    {
+      "start": 210,
+      "end": 230,
+      "text": "Leonard Baptiste-Ngo",
+      "label": "private_person"
+    },
+    {
+      "start": 246,
+      "end": 256,
+      "text": "11/03/1978",
+      "label": "private_date"
+    },
+    {
+      "start": 278,
+      "end": 289,
+      "text": "541-00-2276",
+      "label": "account_number"
+    },
+    {
+      "start": 297,
+      "end": 311,
+      "text": "(971) 555-0116",
+      "label": "private_phone"
+    },
+    {
+      "start": 319,
+      "end": 342,
+      "text": "l.baptistengo@proton.me",
+      "label": "private_email"
+    },
+    {
+      "start": 451,
+      "end": 463,
+      "text": "DEN-88410275",
+      "label": "account_number"
+    },
+    {
+      "start": 473,
+      "end": 481,
+      "text": "GRP-6604",
+      "label": "account_number"
+    },
+    {
+      "start": 494,
+      "end": 514,
+      "text": "Leonard Baptiste-Ngo",
+      "label": "private_person"
+    },
+    {
+      "start": 555,
+      "end": 572,
+      "text": "Dr. Sofia Andrade",
+      "label": "private_person"
+    },
+    {
+      "start": 609,
+      "end": 625,
+      "text": "January 12, 2024",
+      "label": "private_date"
+    },
+    {
+      "start": 1113,
+      "end": 1123,
+      "text": "Celine Ngo",
+      "label": "private_person"
+    },
+    {
+      "start": 1140,
+      "end": 1154,
+      "text": "(971) 555-0142",
+      "label": "private_phone"
+    },
+    {
+      "start": 1380,
+      "end": 1400,
+      "text": "Leonard Baptiste-Ngo",
+      "label": "private_person"
+    },
+    {
+      "start": 1407,
+      "end": 1417,
+      "text": "07/08/2025",
+      "label": "private_date"
+    }
+  ]
+}

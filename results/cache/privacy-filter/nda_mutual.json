@@ -1,0 +1,53 @@
+{
+  "id": "nda_mutual",
+  "spans": [
+    {
+      "start": 242,
+      "end": 265,
+      "text": "Vivienne Okorie-Hammond",
+      "label": "private_person"
+    },
+    {
+      "start": 405,
+      "end": 418,
+      "text": "Stefan Brandt",
+      "label": "private_person"
+    },
+    {
+      "start": 2675,
+      "end": 2710,
+      "text": "v.okoriehammond@meridianbiolabs.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2736,
+      "end": 2764,
+      "text": "s.brandt@wexleranalytics.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2868,
+      "end": 2891,
+      "text": "Vivienne Okorie-Hammond",
+      "label": "private_person"
+    },
+    {
+      "start": 2898,
+      "end": 2908,
+      "text": "04/09/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 2931,
+      "end": 2944,
+      "text": "Stefan Brandt",
+      "label": "private_person"
+    },
+    {
+      "start": 2951,
+      "end": 2961,
+      "text": "04/09/2025",
+      "label": "private_date"
+    }
+  ]
+}

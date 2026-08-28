@@ -1,0 +1,11 @@
+{
+  "id": "savings_statement",
+  "spans": [
+    {
+      "start": 196,
+      "end": 204,
+      "text": "****2210",
+      "label": "account_number"
+    }
+  ]
+}

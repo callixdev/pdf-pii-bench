@@ -1,0 +1,59 @@
+{
+  "id": "mortgage_statement",
+  "spans": [
+    {
+      "start": 153,
+      "end": 195,
+      "text": "Priyanka Chandrasekhar Rohan Chandrasekhar",
+      "label": "private_person"
+    },
+    {
+      "start": 196,
+      "end": 238,
+      "text": "6119 Juniper Hollow Dr Katy, TX 77494-3308",
+      "label": "private_address"
+    },
+    {
+      "start": 269,
+      "end": 281,
+      "text": "0092-7714836",
+      "label": "account_number"
+    },
+    {
+      "start": 292,
+      "end": 330,
+      "text": "6119 Juniper Hollow Dr, Katy, TX 77494",
+      "label": "private_address"
+    },
+    {
+      "start": 347,
+      "end": 360,
+      "text": "June 12, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 452,
+      "end": 462,
+      "text": "07/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 663,
+      "end": 668,
+      "text": "06/01",
+      "label": "private_date"
+    },
+    {
+      "start": 706,
+      "end": 711,
+      "text": "06/05",
+      "label": "private_date"
+    },
+    {
+      "start": 783,
+      "end": 793,
+      "text": "07/01/2025",
+      "label": "private_date"
+    }
+  ]
+}

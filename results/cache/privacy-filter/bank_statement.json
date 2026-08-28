@@ -1,0 +1,227 @@
+{
+  "id": "bank_statement",
+  "spans": [
+    {
+      "start": 184,
+      "end": 201,
+      "text": "Alan J. Whitfield",
+      "label": "private_person"
+    },
+    {
+      "start": 202,
+      "end": 247,
+      "text": "88 Crestview Ter Apt 12 Denver, CO 80211-3419",
+      "label": "private_address"
+    },
+    {
+      "start": 284,
+      "end": 292,
+      "text": "****7702",
+      "label": "account_number"
+    },
+    {
+      "start": 342,
+      "end": 372,
+      "text": "April 1, 2025 - April 30, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 418,
+      "end": 428,
+      "text": "04/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 620,
+      "end": 625,
+      "text": "04/01",
+      "label": "private_date"
+    },
+    {
+      "start": 692,
+      "end": 697,
+      "text": "04/02",
+      "label": "private_date"
+    },
+    {
+      "start": 758,
+      "end": 763,
+      "text": "04/03",
+      "label": "private_date"
+    },
+    {
+      "start": 827,
+      "end": 832,
+      "text": "04/04",
+      "label": "private_date"
+    },
+    {
+      "start": 850,
+      "end": 864,
+      "text": "Dana Whitfield",
+      "label": "private_person"
+    },
+    {
+      "start": 867,
+      "end": 893,
+      "text": "dana.whitfield@outlook.com",
+      "label": "private_email"
+    },
+    {
+      "start": 1112,
+      "end": 1117,
+      "text": "04/09",
+      "label": "private_date"
+    },
+    {
+      "start": 1134,
+      "end": 1143,
+      "text": "@kelsey_r",
+      "label": "private_person"
+    },
+    {
+      "start": 1248,
+      "end": 1253,
+      "text": "04/11",
+      "label": "private_date"
+    },
+    {
+      "start": 1381,
+      "end": 1386,
+      "text": "04/14",
+      "label": "private_date"
+    },
+    {
+      "start": 1404,
+      "end": 1421,
+      "text": "Gregory Whitfield",
+      "label": "private_person"
+    },
+    {
+      "start": 1461,
+      "end": 1466,
+      "text": "04/15",
+      "label": "private_date"
+    },
+    {
+      "start": 1538,
+      "end": 1543,
+      "text": "04/16",
+      "label": "private_date"
+    },
+    {
+      "start": 1759,
+      "end": 1764,
+      "text": "04/19",
+      "label": "private_date"
+    },
+    {
+      "start": 1784,
+      "end": 1798,
+      "text": "Rachel Okonkwo",
+      "label": "private_person"
+    },
+    {
+      "start": 1905,
+      "end": 1910,
+      "text": "04/22",
+      "label": "private_date"
+    },
+    {
+      "start": 1951,
+      "end": 1961,
+      "text": "7301220847",
+      "label": "account_number"
+    },
+    {
+      "start": 1982,
+      "end": 1987,
+      "text": "04/23",
+      "label": "private_date"
+    },
+    {
+      "start": 2007,
+      "end": 2024,
+      "text": "Alan J. Whitfield",
+      "label": "private_person"
+    },
+    {
+      "start": 2056,
+      "end": 2061,
+      "text": "04/24",
+      "label": "private_date"
+    },
+    {
+      "start": 2159,
+      "end": 2179,
+      "text": "Acct #8497-2210-3348",
+      "label": "account_number"
+    },
+    {
+      "start": 2197,
+      "end": 2202,
+      "text": "04/26",
+      "label": "private_date"
+    },
+    {
+      "start": 2203,
+      "end": 2208,
+      "text": "Zelle",
+      "label": "private_person"
+    },
+    {
+      "start": 2220,
+      "end": 2229,
+      "text": "Lisa Park",
+      "label": "private_person"
+    },
+    {
+      "start": 2232,
+      "end": 2251,
+      "text": "lisa.park@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2269,
+      "end": 2274,
+      "text": "04/28",
+      "label": "private_date"
+    },
+    {
+      "start": 2492,
+      "end": 2497,
+      "text": "Zelle",
+      "label": "private_person"
+    },
+    {
+      "start": 2509,
+      "end": 2523,
+      "text": "Dana Whitfield",
+      "label": "private_person"
+    },
+    {
+      "start": 2526,
+      "end": 2552,
+      "text": "dana.whitfield@outlook.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2669,
+      "end": 2681,
+      "text": "NMLS #482910",
+      "label": "account_number"
+    },
+    {
+      "start": 3952,
+      "end": 4015,
+      "text": "https://www.firstmeridian.com/login?acct=7702&statement=2025-04",
+      "label": "private_url"
+    },
+    {
+      "start": 4147,
+      "end": 4159,
+      "text": "NMLS #482910",
+      "label": "account_number"
+    }
+  ]
+}

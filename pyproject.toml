@@ -1,0 +1,30 @@
+[project]
+name = "pdf-pii-bench"
+version = "1.0.0"
+description = "PII-detection benchmark on realistic PDF documents with fabricated PII"
+readme = "README.md"
+authors = [{ name = "Catherine Nelson", email = "catherine@callix.dev" }]
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+baseline = [
+    "opf",
+    "tqdm>=4.68.3",
+]
+
+[project.urls]
+Repository = "https://github.com/catherinenelson1/pdf-pii-bench"
+
+[dependency-groups]
+dev = [
+    "pytest",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.uv.sources]
+opf = { git = "https://github.com/openai/privacy-filter.git", rev = "f7f00ca7fb869683eb732c010299d901457f19c3" }

@@ -1,0 +1,53 @@
+{
+  "id": "lease_commercial",
+  "spans": [
+    {
+      "start": 184,
+      "end": 202,
+      "text": "Harriet Vance-Osei",
+      "label": "private_person"
+    },
+    {
+      "start": 286,
+      "end": 300,
+      "text": "EIN 87-4410226",
+      "label": "account_number"
+    },
+    {
+      "start": 318,
+      "end": 333,
+      "text": "Dominic Farrell",
+      "label": "private_person"
+    },
+    {
+      "start": 3213,
+      "end": 3245,
+      "text": "P.O. Box 91277, Austin, TX 78709",
+      "label": "private_address"
+    },
+    {
+      "start": 3271,
+      "end": 3301,
+      "text": "hvance@vanceoseiproperties.com",
+      "label": "private_email"
+    },
+    {
+      "start": 3349,
+      "end": 3380,
+      "text": "dfarrell@copperkettlebrands.com",
+      "label": "private_email"
+    },
+    {
+      "start": 3743,
+      "end": 3761,
+      "text": "Harriet Vance-Osei",
+      "label": "private_person"
+    },
+    {
+      "start": 3815,
+      "end": 3830,
+      "text": "Dominic Farrell",
+      "label": "private_person"
+    }
+  ]
+}

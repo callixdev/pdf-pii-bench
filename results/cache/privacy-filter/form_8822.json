@@ -1,0 +1,47 @@
+{
+  "id": "form_8822",
+  "spans": [
+    {
+      "start": 1494,
+      "end": 1525,
+      "text": "6a (no., street, apt. no., city",
+      "label": "private_address"
+    },
+    {
+      "start": 2305,
+      "end": 2321,
+      "text": "Corinne A. Bauer",
+      "label": "private_person"
+    },
+    {
+      "start": 2334,
+      "end": 2349,
+      "text": "Nathan J. Bauer",
+      "label": "private_person"
+    },
+    {
+      "start": 2350,
+      "end": 2361,
+      "text": "544-00-8826",
+      "label": "private_phone"
+    },
+    {
+      "start": 2362,
+      "end": 2382,
+      "text": "Corinne A. Delacroix",
+      "label": "private_person"
+    },
+    {
+      "start": 2383,
+      "end": 2467,
+      "text": "77 Quail Run Rd, Apt 3C, Boise, ID 83702 1420 Sagebrush Way, Meridian, ID 83646-5210",
+      "label": "private_address"
+    },
+    {
+      "start": 2468,
+      "end": 2482,
+      "text": "(208) 555-0164",
+      "label": "private_phone"
+    }
+  ]
+}

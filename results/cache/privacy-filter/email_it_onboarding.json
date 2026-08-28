@@ -1,0 +1,77 @@
+{
+  "id": "email_it_onboarding",
+  "spans": [
+    {
+      "start": 43,
+      "end": 55,
+      "text": "Deshawn Cole",
+      "label": "private_person"
+    },
+    {
+      "start": 57,
+      "end": 84,
+      "text": "helpdesk@merrittandlowe.com",
+      "label": "private_email"
+    },
+    {
+      "start": 90,
+      "end": 119,
+      "text": "fiona.gallagher.dub@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 124,
+      "end": 154,
+      "text": "f.gallagher@merrittandlowe.com",
+      "label": "private_email"
+    },
+    {
+      "start": 263,
+      "end": 268,
+      "text": "Fiona",
+      "label": "private_person"
+    },
+    {
+      "start": 344,
+      "end": 354,
+      "text": "07/07/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 451,
+      "end": 481,
+      "text": "f.gallagher@merrittandlowe.com",
+      "label": "private_email"
+    },
+    {
+      "start": 509,
+      "end": 524,
+      "text": "Fiona Gallagher",
+      "label": "private_person"
+    },
+    {
+      "start": 535,
+      "end": 545,
+      "text": "fgallagher",
+      "label": "private_person"
+    },
+    {
+      "start": 566,
+      "end": 580,
+      "text": "Welc0me!ML2025",
+      "label": "secret"
+    },
+    {
+      "start": 1108,
+      "end": 1158,
+      "text": "https://wiki.merrittandlowe.com/onboarding/day-one",
+      "label": "private_url"
+    },
+    {
+      "start": 1261,
+      "end": 1273,
+      "text": "Deshawn Cole",
+      "label": "private_person"
+    }
+  ]
+}

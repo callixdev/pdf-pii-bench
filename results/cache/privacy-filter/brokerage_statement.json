@@ -1,0 +1,59 @@
+{
+  "id": "brokerage_statement",
+  "spans": [
+    {
+      "start": 65,
+      "end": 75,
+      "text": "Sandra Kim",
+      "label": "private_person"
+    },
+    {
+      "start": 76,
+      "end": 90,
+      "text": "(603) 555-0146",
+      "label": "private_phone"
+    },
+    {
+      "start": 93,
+      "end": 125,
+      "text": "sandra.kim@granitepeakwealth.com",
+      "label": "private_email"
+    },
+    {
+      "start": 173,
+      "end": 195,
+      "text": "Edwin Castellanos-Ruiz",
+      "label": "private_person"
+    },
+    {
+      "start": 217,
+      "end": 256,
+      "text": "48 Beacon Hill Rd Nashua, NH 03063-1877",
+      "label": "private_address"
+    },
+    {
+      "start": 289,
+      "end": 299,
+      "text": "Z40-887215",
+      "label": "account_number"
+    },
+    {
+      "start": 1379,
+      "end": 1389,
+      "text": "Sandra Kim",
+      "label": "private_person"
+    },
+    {
+      "start": 1394,
+      "end": 1408,
+      "text": "(603) 555-0146",
+      "label": "private_phone"
+    },
+    {
+      "start": 1412,
+      "end": 1444,
+      "text": "sandra.kim@granitepeakwealth.com",
+      "label": "private_email"
+    }
+  ]
+}

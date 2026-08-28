@@ -1,0 +1,41 @@
+{
+  "id": "irs_notice",
+  "spans": [
+    {
+      "start": 204,
+      "end": 224,
+      "text": "GERALD M FITZPATRICK",
+      "label": "private_person"
+    },
+    {
+      "start": 457,
+      "end": 477,
+      "text": "Gerald M Fitzpatrick",
+      "label": "private_person"
+    },
+    {
+      "start": 1129,
+      "end": 1140,
+      "text": "401-00-6613",
+      "label": "account_number"
+    },
+    {
+      "start": 4184,
+      "end": 4204,
+      "text": "Gerald M Fitzpatrick",
+      "label": "private_person"
+    },
+    {
+      "start": 4210,
+      "end": 4221,
+      "text": "401-00-6613",
+      "label": "account_number"
+    },
+    {
+      "start": 4242,
+      "end": 4251,
+      "text": "88214-771",
+      "label": "account_number"
+    }
+  ]
+}

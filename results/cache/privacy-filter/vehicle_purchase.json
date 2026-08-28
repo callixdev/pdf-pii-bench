@@ -1,0 +1,107 @@
+{
+  "id": "vehicle_purchase",
+  "spans": [
+    {
+      "start": 95,
+      "end": 118,
+      "text": "2nd day of August, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 128,
+      "end": 141,
+      "text": "Randall Petit",
+      "label": "private_person"
+    },
+    {
+      "start": 145,
+      "end": 179,
+      "text": "18 Cypress Bend, Slidell, LA 70458",
+      "label": "private_address"
+    },
+    {
+      "start": 195,
+      "end": 209,
+      "text": "Aisha Nakagawa",
+      "label": "private_person"
+    },
+    {
+      "start": 213,
+      "end": 250,
+      "text": "742 Marigny St, New Orleans, LA 70117",
+      "label": "private_address"
+    },
+    {
+      "start": 386,
+      "end": 407,
+      "text": "VIN 1HGCM82633A004352",
+      "label": "account_number"
+    },
+    {
+      "start": 1462,
+      "end": 1475,
+      "text": "Randall Petit",
+      "label": "private_person"
+    },
+    {
+      "start": 1480,
+      "end": 1494,
+      "text": "Aisha Nakagawa",
+      "label": "private_person"
+    },
+    {
+      "start": 1598,
+      "end": 1612,
+      "text": "(985) 555-0171",
+      "label": "private_phone"
+    },
+    {
+      "start": 1623,
+      "end": 1648,
+      "text": "aisha.nakagawa@tulane.edu",
+      "label": "private_email"
+    },
+    {
+      "start": 1669,
+      "end": 1682,
+      "text": "Randall Petit",
+      "label": "private_person"
+    },
+    {
+      "start": 1689,
+      "end": 1699,
+      "text": "08/02/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1707,
+      "end": 1721,
+      "text": "Aisha Nakagawa",
+      "label": "private_person"
+    },
+    {
+      "start": 1728,
+      "end": 1738,
+      "text": "08/02/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1775,
+      "end": 1798,
+      "text": "2nd day of August, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1815,
+      "end": 1830,
+      "text": "Claude Fontenot",
+      "label": "private_person"
+    },
+    {
+      "start": 1832,
+      "end": 1885,
+      "text": "Parish of Orleans, State of Louisiana Notary ID 66104",
+      "label": "private_address"
+    }
+  ]
+}

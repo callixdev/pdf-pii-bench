@@ -1,0 +1,53 @@
+{
+  "id": "email_conference",
+  "spans": [
+    {
+      "start": 35,
+      "end": 49,
+      "text": "Lucia Ferrante",
+      "label": "private_person"
+    },
+    {
+      "start": 51,
+      "end": 79,
+      "text": "speakers@datahorizonconf.com",
+      "label": "private_email"
+    },
+    {
+      "start": 85,
+      "end": 100,
+      "text": "Dr. Naomi Okoye",
+      "label": "private_person"
+    },
+    {
+      "start": 102,
+      "end": 130,
+      "text": "n.okoye@bayside-quantlab.com",
+      "label": "private_email"
+    },
+    {
+      "start": 218,
+      "end": 233,
+      "text": "Dr. Naomi Okoye",
+      "label": "private_person"
+    },
+    {
+      "start": 1075,
+      "end": 1090,
+      "text": "+1 415-555-0123",
+      "label": "private_phone"
+    },
+    {
+      "start": 1215,
+      "end": 1229,
+      "text": "Lucia Ferrante",
+      "label": "private_person"
+    },
+    {
+      "start": 1305,
+      "end": 1319,
+      "text": "(415) 555-0144",
+      "label": "private_phone"
+    }
+  ]
+}

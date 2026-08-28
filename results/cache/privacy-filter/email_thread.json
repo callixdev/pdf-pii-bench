@@ -1,0 +1,173 @@
+{
+  "id": "email_thread",
+  "spans": [
+    {
+      "start": 41,
+      "end": 54,
+      "text": "Daniel Okafor",
+      "label": "private_person"
+    },
+    {
+      "start": 56,
+      "end": 90,
+      "text": "d.okafor@brightpath-consulting.com",
+      "label": "private_email"
+    },
+    {
+      "start": 96,
+      "end": 111,
+      "text": "Sarah Lindqvist",
+      "label": "private_person"
+    },
+    {
+      "start": 113,
+      "end": 151,
+      "text": "sarah.lindqvist@harborlineventures.com",
+      "label": "private_email"
+    },
+    {
+      "start": 157,
+      "end": 168,
+      "text": "Priya Raman",
+      "label": "private_person"
+    },
+    {
+      "start": 170,
+      "end": 203,
+      "text": "p.raman@brightpath-consulting.com",
+      "label": "private_email"
+    },
+    {
+      "start": 380,
+      "end": 385,
+      "text": "Sarah",
+      "label": "private_person"
+    },
+    {
+      "start": 593,
+      "end": 604,
+      "text": "Priya Raman",
+      "label": "private_person"
+    },
+    {
+      "start": 849,
+      "end": 884,
+      "text": ":d.okafor@brightpath-consulting.com",
+      "label": "private_email"
+    },
+    {
+      "start": 1203,
+      "end": 1213,
+      "text": "04/18/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1267,
+      "end": 1278,
+      "text": "Priya Raman",
+      "label": "private_person"
+    },
+    {
+      "start": 1294,
+      "end": 1300,
+      "text": "Daniel",
+      "label": "private_person"
+    },
+    {
+      "start": 1304,
+      "end": 1317,
+      "text": "Daniel Okafor",
+      "label": "private_person"
+    },
+    {
+      "start": 1390,
+      "end": 1402,
+      "text": "512-555-0143",
+      "label": "private_phone"
+    },
+    {
+      "start": 1410,
+      "end": 1424,
+      "text": "(512) 555-0198",
+      "label": "private_phone"
+    },
+    {
+      "start": 1435,
+      "end": 1450,
+      "text": "+1 512-555-0177",
+      "label": "private_phone"
+    },
+    {
+      "start": 1481,
+      "end": 1518,
+      "text": "https://linkedin.com/in/daniel-okafor",
+      "label": "private_url"
+    },
+    {
+      "start": 1781,
+      "end": 1796,
+      "text": "Sarah Lindqvist",
+      "label": "private_person"
+    },
+    {
+      "start": 1806,
+      "end": 1812,
+      "text": "Daniel",
+      "label": "private_person"
+    },
+    {
+      "start": 2097,
+      "end": 2111,
+      "text": "(617) 555-0192",
+      "label": "private_phone"
+    },
+    {
+      "start": 2139,
+      "end": 2150,
+      "text": "Annika Berg",
+      "label": "private_person"
+    },
+    {
+      "start": 2310,
+      "end": 2315,
+      "text": "Sarah",
+      "label": "private_person"
+    },
+    {
+      "start": 2323,
+      "end": 2338,
+      "text": "Sarah Lindqvist",
+      "label": "private_person"
+    },
+    {
+      "start": 2398,
+      "end": 2436,
+      "text": "sarah.lindqvist@harborlineventures.com",
+      "label": "private_email"
+    },
+    {
+      "start": 2504,
+      "end": 2517,
+      "text": "Daniel Okafor",
+      "label": "private_person"
+    },
+    {
+      "start": 2528,
+      "end": 2533,
+      "text": "Sarah",
+      "label": "private_person"
+    },
+    {
+      "start": 2803,
+      "end": 2809,
+      "text": "774021",
+      "label": "account_number"
+    },
+    {
+      "start": 3040,
+      "end": 3054,
+      "text": "Daniel Printed",
+      "label": "private_person"
+    }
+  ]
+}

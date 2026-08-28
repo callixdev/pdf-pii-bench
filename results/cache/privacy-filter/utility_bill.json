@@ -1,0 +1,59 @@
+{
+  "id": "utility_bill",
+  "spans": [
+    {
+      "start": 164,
+      "end": 176,
+      "text": "6633-118-442",
+      "label": "account_number"
+    },
+    {
+      "start": 193,
+      "end": 206,
+      "text": "June 18, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 223,
+      "end": 233,
+      "text": "05/16/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 236,
+      "end": 246,
+      "text": "06/16/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 257,
+      "end": 267,
+      "text": "07/09/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 281,
+      "end": 295,
+      "text": "Renee Baptiste",
+      "label": "private_person"
+    },
+    {
+      "start": 296,
+      "end": 340,
+      "text": "2240 Esplanade Ave, New Orleans, LA 70119 AM",
+      "label": "private_address"
+    },
+    {
+      "start": 360,
+      "end": 370,
+      "text": "07/09/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 413,
+      "end": 423,
+      "text": "05/30/2025",
+      "label": "private_date"
+    }
+  ]
+}

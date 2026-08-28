@@ -1,0 +1,83 @@
+{
+  "id": "w2_form",
+  "spans": [
+    {
+      "start": 2933,
+      "end": 2954,
+      "text": "Margaret R Thornberry",
+      "label": "private_person"
+    },
+    {
+      "start": 2955,
+      "end": 3002,
+      "text": "1847 Willow Creek Dr, Apt 2B Portland, OR 97205",
+      "label": "private_address"
+    },
+    {
+      "start": 4174,
+      "end": 4195,
+      "text": "Margaret R Thornberry",
+      "label": "private_person"
+    },
+    {
+      "start": 4196,
+      "end": 4243,
+      "text": "1847 Willow Creek Dr, Apt 2B Portland, OR 97205",
+      "label": "private_address"
+    },
+    {
+      "start": 5584,
+      "end": 5605,
+      "text": "Margaret R Thornberry",
+      "label": "private_person"
+    },
+    {
+      "start": 5606,
+      "end": 5660,
+      "text": "1847 Willow Creek Dr, Apt 2B Portland, OR 97205 68,450",
+      "label": "private_address"
+    },
+    {
+      "start": 10106,
+      "end": 10127,
+      "text": "Margaret R Thornberry",
+      "label": "private_person"
+    },
+    {
+      "start": 10128,
+      "end": 10175,
+      "text": "1847 Willow Creek Dr, Apt 2B Portland, OR 97205",
+      "label": "private_address"
+    },
+    {
+      "start": 15440,
+      "end": 15449,
+      "text": "1545-0029",
+      "label": "account_number"
+    },
+    {
+      "start": 16472,
+      "end": 16493,
+      "text": "Margaret R Thornberry",
+      "label": "private_person"
+    },
+    {
+      "start": 16494,
+      "end": 16541,
+      "text": "1847 Willow Creek Dr, Apt 2B Portland, OR 97205",
+      "label": "private_address"
+    },
+    {
+      "start": 22165,
+      "end": 22186,
+      "text": "Margaret R Thornberry",
+      "label": "private_person"
+    },
+    {
+      "start": 22187,
+      "end": 22234,
+      "text": "1847 Willow Creek Dr, Apt 2B Portland, OR 97205",
+      "label": "private_address"
+    }
+  ]
+}

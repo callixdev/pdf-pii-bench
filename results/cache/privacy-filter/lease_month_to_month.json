@@ -1,0 +1,65 @@
+{
+  "id": "lease_month_to_month",
+  "spans": [
+    {
+      "start": 93,
+      "end": 107,
+      "text": "Petra Lindgren",
+      "label": "private_person"
+    },
+    {
+      "start": 125,
+      "end": 136,
+      "text": "Curtis Boyd",
+      "label": "private_person"
+    },
+    {
+      "start": 168,
+      "end": 206,
+      "text": "1712 NE Failing St, Portland, OR 97212",
+      "label": "private_address"
+    },
+    {
+      "start": 700,
+      "end": 710,
+      "text": "7300415529",
+      "label": "account_number"
+    },
+    {
+      "start": 1259,
+      "end": 1271,
+      "text": "971-555-0184",
+      "label": "private_phone"
+    },
+    {
+      "start": 1275,
+      "end": 1307,
+      "text": "petra.lindgren.rentals@yahoo.com",
+      "label": "private_email"
+    },
+    {
+      "start": 1828,
+      "end": 1842,
+      "text": "Petra Lindgren",
+      "label": "private_person"
+    },
+    {
+      "start": 1849,
+      "end": 1859,
+      "text": "06/24/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1868,
+      "end": 1879,
+      "text": "Curtis Boyd",
+      "label": "private_person"
+    },
+    {
+      "start": 1886,
+      "end": 1896,
+      "text": "06/24/2025",
+      "label": "private_date"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "invoice",
+  "spans": [
+    {
+      "start": 32,
+      "end": 49,
+      "text": "@cedarpine.design",
+      "label": "private_person"
+    },
+    {
+      "start": 52,
+      "end": 66,
+      "text": "(503) 555-0187",
+      "label": "private_phone"
+    },
+    {
+      "start": 154,
+      "end": 164,
+      "text": "2025-04-18",
+      "label": "private_date"
+    },
+    {
+      "start": 178,
+      "end": 189,
+      "text": "May 2, 2025",
+      "label": "private_date"
+    },
+    {
+      "start": 225,
+      "end": 237,
+      "text": "Nadia Rahman",
+      "label": "private_person"
+    },
+    {
+      "start": 318,
+      "end": 344,
+      "text": "n.rahman@arclightgoods.com",
+      "label": "private_email"
+    },
+    {
+      "start": 394,
+      "end": 406,
+      "text": "Nadia Rahman",
+      "label": "private_person"
+    },
+    {
+      "start": 1085,
+      "end": 1094,
+      "text": "112231234",
+      "label": "account_number"
+    },
+    {
+      "start": 1104,
+      "end": 1113,
+      "text": "091044282",
+      "label": "account_number"
+    },
+    {
+      "start": 1213,
+      "end": 1237,
+      "text": "Visa 4111 1111 1111 1111",
+      "label": "account_number"
+    },
+    {
+      "start": 1677,
+      "end": 1689,
+      "text": "Wes Calloway",
+      "label": "private_person"
+    },
+    {
+      "start": 1691,
+      "end": 1705,
+      "text": "(503) 555-0187",
+      "label": "private_phone"
+    }
+  ]
+}

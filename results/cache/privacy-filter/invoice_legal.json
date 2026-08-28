@@ -1,0 +1,113 @@
+{
+  "id": "invoice_legal",
+  "spans": [
+    {
+      "start": 41,
+      "end": 56,
+      "text": "chuandgrant.com",
+      "label": "private_email"
+    },
+    {
+      "start": 59,
+      "end": 73,
+      "text": "(206) 555-0129",
+      "label": "private_phone"
+    },
+    {
+      "start": 211,
+      "end": 225,
+      "text": "Douglas Reiner",
+      "label": "private_person"
+    },
+    {
+      "start": 226,
+      "end": 268,
+      "text": "1400 5th Ave, Suite 2200 Seattle, WA 98101",
+      "label": "private_address"
+    },
+    {
+      "start": 409,
+      "end": 419,
+      "text": "06/03/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 420,
+      "end": 426,
+      "text": "A. Chu",
+      "label": "private_person"
+    },
+    {
+      "start": 486,
+      "end": 496,
+      "text": "06/10/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 497,
+      "end": 507,
+      "text": "B. Feldman",
+      "label": "private_person"
+    },
+    {
+      "start": 575,
+      "end": 585,
+      "text": "06/17/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 586,
+      "end": 592,
+      "text": "A. Chu",
+      "label": "private_person"
+    },
+    {
+      "start": 658,
+      "end": 668,
+      "text": "06/17/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 669,
+      "end": 679,
+      "text": "B. Feldman",
+      "label": "private_person"
+    },
+    {
+      "start": 728,
+      "end": 738,
+      "text": "06/24/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 739,
+      "end": 745,
+      "text": "A. Chu",
+      "label": "private_person"
+    },
+    {
+      "start": 840,
+      "end": 850,
+      "text": "06/10/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1108,
+      "end": 1121,
+      "text": "Alexandra Chu",
+      "label": "private_person"
+    },
+    {
+      "start": 1141,
+      "end": 1152,
+      "text": "Ben Feldman",
+      "label": "private_person"
+    },
+    {
+      "start": 1255,
+      "end": 1265,
+      "text": "4400921166",
+      "label": "account_number"
+    }
+  ]
+}

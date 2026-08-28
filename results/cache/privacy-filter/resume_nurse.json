@@ -1,0 +1,41 @@
+{
+  "id": "resume_nurse",
+  "spans": [
+    {
+      "start": 0,
+      "end": 20,
+      "text": "DIANE OKONKWO-PHELPS",
+      "label": "private_person"
+    },
+    {
+      "start": 68,
+      "end": 95,
+      "text": "d.okonkwophelps@outlook.com",
+      "label": "private_email"
+    },
+    {
+      "start": 98,
+      "end": 112,
+      "text": "(614) 555-0129",
+      "label": "private_phone"
+    },
+    {
+      "start": 264,
+      "end": 281,
+      "text": "03/2027 / 03/2027",
+      "label": "private_date"
+    },
+    {
+      "start": 362,
+      "end": 380,
+      "text": "Feb 2020 - Present",
+      "label": "private_date"
+    },
+    {
+      "start": 926,
+      "end": 941,
+      "text": "Dr. Emeka Nwosu",
+      "label": "private_person"
+    }
+  ]
+}

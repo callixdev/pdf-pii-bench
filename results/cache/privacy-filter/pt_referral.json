@@ -1,0 +1,47 @@
+{
+  "id": "pt_referral",
+  "spans": [
+    {
+      "start": 159,
+      "end": 180,
+      "text": "Gustavo Ferreira-Lind",
+      "label": "private_person"
+    },
+    {
+      "start": 196,
+      "end": 206,
+      "text": "09/30/1991",
+      "label": "private_date"
+    },
+    {
+      "start": 214,
+      "end": 226,
+      "text": "206.555.0147",
+      "label": "private_phone"
+    },
+    {
+      "start": 234,
+      "end": 259,
+      "text": "gferreiralind@outlook.com",
+      "label": "private_email"
+    },
+    {
+      "start": 289,
+      "end": 305,
+      "text": "Dr. Hannah Weiss",
+      "label": "private_person"
+    },
+    {
+      "start": 440,
+      "end": 450,
+      "text": "05/19/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 471,
+      "end": 481,
+      "text": "06/02/2025",
+      "label": "private_date"
+    }
+  ]
+}

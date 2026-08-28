@@ -1,0 +1,65 @@
+{
+  "id": "credit_union_statement",
+  "spans": [
+    {
+      "start": 146,
+      "end": 163,
+      "text": "Marcus T. Delgado",
+      "label": "private_person"
+    },
+    {
+      "start": 177,
+      "end": 190,
+      "text": "Sofia Delgado",
+      "label": "private_person"
+    },
+    {
+      "start": 191,
+      "end": 232,
+      "text": "77 Pinewood Ct Boulder, CO 80302 ACCOUNTS",
+      "label": "private_address"
+    },
+    {
+      "start": 248,
+      "end": 256,
+      "text": "00448821",
+      "label": "account_number"
+    },
+    {
+      "start": 552,
+      "end": 557,
+      "text": "05/01",
+      "label": "private_date"
+    },
+    {
+      "start": 618,
+      "end": 623,
+      "text": "05/02",
+      "label": "private_date"
+    },
+    {
+      "start": 677,
+      "end": 682,
+      "text": "05/06",
+      "label": "private_date"
+    },
+    {
+      "start": 692,
+      "end": 706,
+      "text": "Hannah Delgado",
+      "label": "private_person"
+    },
+    {
+      "start": 709,
+      "end": 736,
+      "text": "hannah.delgado@colorado.edu",
+      "label": "private_email"
+    },
+    {
+      "start": 936,
+      "end": 941,
+      "text": "05/19",
+      "label": "private_date"
+    }
+  ]
+}

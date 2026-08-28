@@ -1,0 +1,47 @@
+{
+  "id": "academic_cv",
+  "spans": [
+    {
+      "start": 108,
+      "end": 156,
+      "text": "1111 Engineering Dr, ECOT 717, Boulder, CO 80309",
+      "label": "private_address"
+    },
+    {
+      "start": 157,
+      "end": 185,
+      "text": "i.fedorovnakade@colorado.edu",
+      "label": "private_email"
+    },
+    {
+      "start": 188,
+      "end": 203,
+      "text": "+1 303-555-0164",
+      "label": "private_phone"
+    },
+    {
+      "start": 204,
+      "end": 242,
+      "text": "https://home.cs.colorado.edu/~ifedorov",
+      "label": "private_url"
+    },
+    {
+      "start": 252,
+      "end": 271,
+      "text": "0000-0002-1825-0097",
+      "label": "account_number"
+    },
+    {
+      "start": 288,
+      "end": 337,
+      "text": "https://scholar.google.com/citations?user=xK4mQ8r",
+      "label": "private_url"
+    },
+    {
+      "start": 1736,
+      "end": 1753,
+      "text": "I. Fedorov-Nakade",
+      "label": "private_person"
+    }
+  ]
+}

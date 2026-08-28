@@ -1,0 +1,35 @@
+{
+  "id": "form_ss4",
+  "spans": [
+    {
+      "start": 4792,
+      "end": 4809,
+      "text": "Monica Reyes-Tran",
+      "label": "private_person"
+    },
+    {
+      "start": 4810,
+      "end": 4824,
+      "text": "(303) 555-0142",
+      "label": "private_phone"
+    },
+    {
+      "start": 4885,
+      "end": 4898,
+      "text": "Yusuf El-Amin",
+      "label": "private_person"
+    },
+    {
+      "start": 4916,
+      "end": 4930,
+      "text": "(720) 555-0117",
+      "label": "private_phone"
+    },
+    {
+      "start": 4931,
+      "end": 4945,
+      "text": "(720) 555-0118",
+      "label": "private_phone"
+    }
+  ]
+}

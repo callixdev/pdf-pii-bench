@@ -1,0 +1,83 @@
+{
+  "id": "lease_sublease",
+  "spans": [
+    {
+      "start": 83,
+      "end": 104,
+      "text": "Anthony Okonkwo-Reyes",
+      "label": "private_person"
+    },
+    {
+      "start": 140,
+      "end": 182,
+      "text": "Apt 8C, 405 W 118th St, New York, NY 10026",
+      "label": "private_address"
+    },
+    {
+      "start": 188,
+      "end": 201,
+      "text": "Grace Muthoni",
+      "label": "private_person"
+    },
+    {
+      "start": 1334,
+      "end": 1360,
+      "text": "aokonkworeyes@columbia.edu",
+      "label": "private_email"
+    },
+    {
+      "start": 1386,
+      "end": 1409,
+      "text": "grace.muthoni@gmail.com",
+      "label": "private_email"
+    },
+    {
+      "start": 1411,
+      "end": 1425,
+      "text": "(646) 555-0122",
+      "label": "private_phone"
+    },
+    {
+      "start": 1474,
+      "end": 1486,
+      "text": "Wendell Park",
+      "label": "private_person"
+    },
+    {
+      "start": 1534,
+      "end": 1555,
+      "text": "Anthony Okonkwo-Reyes",
+      "label": "private_person"
+    },
+    {
+      "start": 1562,
+      "end": 1572,
+      "text": "05/30/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1584,
+      "end": 1597,
+      "text": "Grace Muthoni",
+      "label": "private_person"
+    },
+    {
+      "start": 1604,
+      "end": 1614,
+      "text": "05/30/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 1630,
+      "end": 1642,
+      "text": "Wendell Park",
+      "label": "private_person"
+    },
+    {
+      "start": 1649,
+      "end": 1659,
+      "text": "05/30/2025",
+      "label": "private_date"
+    }
+  ]
+}

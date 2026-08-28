@@ -1,0 +1,35 @@
+{
+  "id": "paystub",
+  "spans": [
+    {
+      "start": 93,
+      "end": 103,
+      "text": "06/01/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 106,
+      "end": 116,
+      "text": "06/15/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 127,
+      "end": 137,
+      "text": "06/20/2025",
+      "label": "private_date"
+    },
+    {
+      "start": 182,
+      "end": 200,
+      "text": "Terrence J. Okafor",
+      "label": "private_person"
+    },
+    {
+      "start": 201,
+      "end": 243,
+      "text": "930 Sycamore Run, Apt 6 Columbus, OH 43215",
+      "label": "private_address"
+    }
+  ]
+}
